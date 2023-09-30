@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-09-30T06:13:20.364Z
+date: 2023-09-30T06:14:46.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
