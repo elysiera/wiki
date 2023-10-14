@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:03:57.388Z
+date: 2023-10-14T07:07:13.434Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -156,14 +156,14 @@ Elysiera features special NPCs called Quartermasters, who trade equipment and it
 | 126 – ∞ | 5✕  |
 
 ## Server Commands
-**General commands:**
--   !commands
+### **General commands:**
+-   **!commands**
 See a list of commands available
--   !aol
+-   **!aol**
 Spawn an Amulet of Loss into your backpack (Costs 50,000 gold)
--   !autoloot (on/off)
+-   **!autoloot (on/off)**
 Enable or disable autoloot
--   !bless
+-   **!bless**
 Add all available blessings.
 -   !vip
 Check your VIP status
@@ -180,7 +180,7 @@ Lists the server status
 Displays the current game world time
 
 
-**Bank commands**
+### **Bank commands**
 *Make sure to remove all (brackets) before typing the commands*
 -   !withdraw (amount)
 Withdraw money from your bank
@@ -192,7 +192,7 @@ Check your bank balance
 Deposit a specific amount of money in your backpack to your bank.
 Or deposit all money in your backpack into your bank.
 
-**Housing commands:**
+### **Housing commands:**
 -   !buyhouse
 Stand in front of the door to buy the house.
 -   !leavehouse
