@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:59:04.705Z
+date: 2023-10-14T08:26:02.131Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -172,15 +172,15 @@ Elysiera features special NPCs called Quartermasters available in Thais outside 
 See a list of commands available
 -   **!aol**
 Spawn an Amulet of Loss into your backpack (Costs 50,000 gold)
-- **!autoloot (on/off)**
+- **!autoloot on | !autoloot off**
 Enable or disable autoloot
 -   **!bless**
 Add all available blessings.
 -   **!vip**
 Check your VIP status
--   **!flask (on/off)**
+-   **!flask on	 | !flask off**
 Enables or disables receiving empty flasks when drinking potions
--   **!emote (on/off)**
+-   **!emote on	 | !emote off**
 On will make spells display in chat.
 Off will remove spells from chat and display as an emote (Orange text)
 -   **!online**
