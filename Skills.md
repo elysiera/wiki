@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-14T10:40:00.919Z
+date: 2023-10-14T10:41:55.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -19,7 +19,6 @@ Elysiera introduces a number of changes to many items, and spells.
 - - Basic bolts are infinite
 - Wands and Rods now have their own attack values, scale with Magic Level and Chain to multiple enemies (4 base)
 - All spears and throwing weapons chain to up to 5 enemes.
-- Spectral Bolts and Diamond Arrows no longer have a timer.
 
 **Runes revamped**
 - AOE runes (Giant Fireball, etc) damage increased by **26%**
