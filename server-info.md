@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:16:24.142Z
+date: 2023-10-14T07:31:36.262Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -17,16 +17,16 @@ dateCreated: 2023-09-30T06:00:06.168Z
 -   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
 -   **Greater security**: `bcrypt` salted and encrypted password, optional 2-factor-authentication
 -   **Weekly Vouchers**:
-    -   4 hours of double experience
-    -   12 hours of double skill
+    -   4 hours of double experience (Refreshed on Wednesday)
+    -   12 hours of double skill (Refreshed on Thursday)
 -   **Free quests**: Access quests unlocked so you can hunt spawns and the bosses you want
 
 ## Training
 
--   **Free, infinite, training weapons**: This are 20% as effective as regular exercise weapons, but last forever!
+-   **Free, infinite, training weapons**: These are 20% as effective as regular exercise weapons, but last forever!
 -   **Basic exercise weapons**: Baseline weapons (5x more effective than the infinite ones). You get them in game at [Online Points](https://elysiera.com/pages/online-points) store, for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
--   **Enhanced exercise weapons**: 20% more effective than *Basic*. You get get them in ganme for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
--   **Masterful exercise weapons**: 30% more effective than *Basic*. You get get them in ganme for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
+-   **Enhanced exercise weapons**: 20% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
+-   **Masterful exercise weapons**: 30% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
 
 ## Blessings
 
@@ -55,7 +55,7 @@ And you also get unique tokens at *every* level between 50 and 500:
 
 ### Token NPCs
 
-Elysiera features special NPCs called Quartermasters, who trade equipment and items in exchange for tokens. There are four Quartermasters, each corresponding to a type of token:
+Elysiera features special NPCs called Quartermasters available in Thais outside the temple, who trade equipment and items in exchange for tokens. There are four Quartermasters, each corresponding to a type of token:
 
 -   Titanium Quartermaster: Exercise weapons, prey cards, etc.
 -   Platinum Quartermaster: Trades mid-high-level equipment for Platinum tokens.
@@ -85,14 +85,14 @@ Elysiera features special NPCs called Quartermasters, who trade equipment and it
 
 **Divine Dazzle:**
 
--   Chains on 5 creatures (base)
+-   Chain effect on up to 5 creatures (base)
 -   Works on melee creatures (if they can run on low health)
 -   Prevents creatures from running on low health
 -   Skips already affected creatures
 
 **Chivalrous Challenge:**
 
--   chains on 6 creatures (base)
+-   Chain effect on up to 6 creatures (base)
 -   skips already affected creatures
 
 **Challenge:**
@@ -113,7 +113,7 @@ Elysiera features special NPCs called Quartermasters, who trade equipment and it
 
 **Divine Missile**
 
--   added chain effect to spell, effecting up to 5 targets
+-   Chain effect on up to 5 creatures
 -   ***Developer notes:** Divine Missile and Ethereal Spear are nearly identical. We wanted to define a situational usage for one spell over the other.*
 
 **Rune Rebalancing:**
@@ -122,6 +122,7 @@ Elysiera features special NPCs called Quartermasters, who trade equipment and it
 -   *Heavy Magic Missile:* Damage increased to approximately 90% of Sudden Death.
 -   *Icicle:* Damage increased to approximately 90% of Sudden Death.
 -   *Stalagmite:* Damage increased to approximately 90% of Sudden Death.
+-    All 4 runes have been given a chain effect, up to 5 creatures.
 -   ***Developer notes:** We want to give outdated runes a situational use. The Sudden Death rune has been the goto rune for single target. Certain monster resistances or vulnerabilities will give the player the option to optimize damage with elemental runes.*
 
 ## Rates
