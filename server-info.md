@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:02:10.831Z
+date: 2023-10-14T07:03:57.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -197,5 +197,5 @@ Or deposit all money in your backpack into your bank.
 Stand in front of the door to buy the house.
 -   !leavehouse
 Stand inside of the house to abandon the house.
--   !sell house
+-   !sellhouse
 Stand in front of the door, have another player nearby, click them and it will initiate a trade to sell them the house.
