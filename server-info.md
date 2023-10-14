@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:53:01.451Z
+date: 2023-10-14T07:59:04.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -92,10 +92,10 @@ Elysiera features special NPCs called Quartermasters available in Thais outside 
 
 **Sharpshooter**
 - Now grants 1 charge instead of boosting damage. Charge will allow you to change the effect of one of the following skills:
-- *Ethereal Spear*: Fires 5 times for -25% damage.
+- *Ethereal Spear*: Fires 5 times for -25% damage per shot.
 - *Strong Ethereal Spear*: Deals +25% damage and changes its element to the targets lowest element
-- *Divine Missile*: +25% damage
-- *Divine Caldera*: Casts twice. Second cast costs no damage.
+- *Divine Missile*: +25% damage.
+- *Divine Caldera*: Casts twice. Second cast costs no mana.
 
 *Rank 2 of Augmented Sharpshooter Wheel of Destiny convication gives 2 charges instead of 1*
 
