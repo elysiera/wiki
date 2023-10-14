@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-14T14:32:15.913Z
+date: 2023-10-14T14:36:06.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -14,14 +14,14 @@ Elysiera introduces a number of changes to many items, and spells.
 
 ## Item Changes
 - All arrows deal damage in a 5x5 area of effect.
-- - Basic arrows are infinite
-- Bolts remain single target
-- - Basic bolts are infinite
-- Wands and Rods now have their own attack values, scale with Magic Level and Chain to multiple enemies (4 base)
+- Bolts remain single target.
+- Basic arrows are infinite.
+- Basic bolts are infinite.
+- Wands and Rods now have their own attack values, scale with Magic Level and Chain to multiple enemies. (4 base)
 - All throwing weapons chain to up to 5 targets.
 
 **Runes revamped**
-- AOE runes (Great Fireball, etc) damage increased by **26%**
+- AOE runes (Great Fireball, etc) damage increased by **26%**.
 **Single Target rune revamp:**
 - Fireball now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
 - Stalagmite now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
@@ -39,7 +39,7 @@ Elysiera introduces a number of changes to many items, and spells.
 
 **Protect Party:**
 
--   Decreases party members damage take by 1%
+-   Decreases party members damage take by **1%**.
 
 **Divine Missile**
 
@@ -47,13 +47,14 @@ Elysiera introduces a number of changes to many items, and spells.
 -   ***Developer notes:** Divine Missile and Ethereal Spear are nearly identical. We wanted to define a situational usage for one spell over the other.*
 
 **Sharpshooter**
+Skill has been completely revamped.
 - Now grants 1 charge instead of boosting damage. Charge will allow you to change the effect of one of the following skills:
 - *Ethereal Spear*: Fires 5 times for -25% damage per shot.
-- *Strong Ethereal Spear*: Deals +10% damage and changes its element to the targets lowest element
+- *Strong Ethereal Spear*: Deals +10% damage and changes its element to the targets lowest elemental resistance.
 - *Divine Missile*: +20% damage and Chains to 3 additional targets.
 - *Divine Caldera*: Increases damage by 10% and casts twice. Second cast costs no mana.
 
-*Rank 2 of Augmented Sharpshooter Wheel of Destiny convication gives 2 charges instead of 1*
+*Rank 2 of Augmented Sharpshooter Wheel of Destiny conviction gives 2 charges instead of 1*
 
 **New spell: Conjure Royal Star**
 - Creates 30 Royal Stars for 1,000 mana
