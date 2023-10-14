@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T07:07:35.482Z
+date: 2023-10-14T07:16:24.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -161,41 +161,41 @@ Elysiera features special NPCs called Quartermasters, who trade equipment and it
 See a list of commands available
 -   **!aol**
 Spawn an Amulet of Loss into your backpack (Costs 50,000 gold)
--   **!autoloot (on/off)**
+- **!autoloot (on/off)**
 Enable or disable autoloot
 -   **!bless**
 Add all available blessings.
--   !vip
+-   **!vip**
 Check your VIP status
--   !flask (on/off)
+-   **!flask (on/off)**
 Enables or disables receiving empty flasks when drinking potions
--   !emote (on/off)
+-   **!emote (on/off)**
 On will make spells display in chat.
-Off will remove spells from chat.
--   !online
+Off will remove spells from chat and display as an emote (Orange text)
+-   **!online**
 Lists all players online and their current status
--   !serverinfo
+-   **!serverinfo**
 Lists the server status
--   !time
+-   **!time**
 Displays the current game world time
 
 
 #### **Bank commands**
-*Make sure to remove all (brackets) before typing the commands*
--   !withdraw (amount)
+*Do not include the (brackets) when typing these commands*
+-   **!withdraw (amount)**
 Withdraw money from your bank
--   !transfer (player), (amount)
+-   **!transfer (player name), (amount)**
 Send money to another player
--   !balance
+-   **!balance**
 Check your bank balance
--   !deposit (amount) *or* !deposit all
+-   **!deposit (amount) *or* !deposit all**
 Deposit a specific amount of money in your backpack to your bank.
 Or deposit all money in your backpack into your bank.
 
 #### **Housing commands:**
--   !buyhouse
+-   **!buyhouse**
 Stand in front of the door to buy the house.
--   !leavehouse
+-   **!leavehouse**
 Stand inside of the house to abandon the house.
--   !sellhouse
+-   **!sellhouse**
 Stand in front of the door, have another player nearby, click them and it will initiate a trade to sell them the house.
