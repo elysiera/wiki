@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-14T10:41:55.333Z
+date: 2023-10-14T14:27:10.293Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -21,7 +21,7 @@ Elysiera introduces a number of changes to many items, and spells.
 - All spears and throwing weapons chain to up to 5 enemes.
 
 **Runes revamped**
-- AOE runes (Giant Fireball, etc) damage increased by **26%**
+- AOE runes (Great Fireball, etc) damage increased by **26%**
 **Single Target rune revamp:**
 - Fireball now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
 - Stalagmite now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
@@ -109,4 +109,4 @@ Magic shield nodes on wheel of destiny also affect this shield
 - Capped at 3
 - Stack lasts for 10 seconds (Stacks refresh when casting Strong Strikes)
 
-Casting the next Ultimate Strike while having stacks of Elemental Charge will boost the Ultimate Strikes damage by 
+Casting the next Ultimate Strike while having stacks of Elemental Charge will multiply the damage by 1+stacks (4x at max stacks)
