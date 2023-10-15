@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T05:58:25.046Z
+date: 2023-10-15T06:03:11.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -17,9 +17,9 @@ Elysiera introduces a number of changes to many items, and spells.
 - Bolts remain single target.
 - Basic arrows are infinite.
 - Basic bolts are infinite.
-- Wands and Rods now have their own attack values, scale with Magic Level and Chain to multiple enemies. (4 base)
+- Wands and Rods now have their own attack values, scale with Magic Level and Chain to multiple targets. (4 base)
 - All throwing weapons chain to up to 5 targets.
-- Imbuements only cost **Gold**, no materials.
+- Imbuments only cost **Gold**, no materials.
 
 **Runes revamped**
 - AOE runes (Great Fireball, etc) damage increased by ~**26%**.
@@ -33,7 +33,7 @@ Elysiera introduces a number of changes to many items, and spells.
 ## Paladin skill changes
 **Divine Dazzle:**
 
--   Chain effect on up to 5 targets (base)
+-   Chain effect, up to 5 targets (base)
 -   Works on melee creatures (if they can run on low health)
 -   Prevents creatures from running on low health
 -   Skips already affected creatures
@@ -44,7 +44,7 @@ Elysiera introduces a number of changes to many items, and spells.
 
 **Divine Missile**
 
--   Chain effect on up to 5 targets.
+-   Chain effect, up to 5 targets.
 -   ***Developer notes:** Divine Missile and Ethereal Spear are nearly identical. We wanted to define a situational usage for one spell over the other.*
 
 **Sharpshooter**
