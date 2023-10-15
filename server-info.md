@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-14T08:26:02.131Z
+date: 2023-10-15T13:27:46.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -44,23 +44,6 @@ You get some basic gold rewards at a few levels:
 -   Level 100: 50,000 gold
 -   Level 150: 100,000 gold
 -   Level 200: 200,000 gold
-
-And you also get unique tokens at *every* level between 50 and 500:
-
--   Levels 1-49: No tokens.
--   Levels 50-99: 5 Copper tokens per level.
--   Levels 100-149: 5 Iron tokens per level.
--   Levels 150-199: 5 Platinum tokens per level.
--   Levels 200-500: 5 Titanium tokens per level.
-
-### Token NPCs
-
-Elysiera features special NPCs called Quartermasters available in Thais outside the temple, who trade equipment and items in exchange for tokens. There are four Quartermasters, each corresponding to a type of token:
-
--   Titanium Quartermaster: Exercise weapons, prey cards, etc.
--   Platinum Quartermaster: Trades mid-high-level equipment for Platinum tokens.
--   Iron Quartermaster: Trades mid-level equipment for Iron tokens.
--   Copper Quartermaster: Trades low-level equipment for Copper tokens.
 
 ## Custom systems
 
