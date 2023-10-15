@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T06:03:11.328Z
+date: 2023-10-15T06:08:12.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -69,6 +69,11 @@ Skill has been completely revamped.
 - Creates 100 Diamond Arrows for 1,000 mana
 - Requires level 150
 
+**New Spell**
+Create Blank Rune
+- Creates 1 blank rune for 50 mana and 1 soup loint.
+- Cannot be cast in a protection zone
+
 ## Knight skill changes
 **Chivalrous Challenge:**
 
@@ -97,6 +102,14 @@ Wheel of Destiny conviction augment further increases damage by +**20%**.
 -   30 health per second (instead of 20 every 2)
 
 ## Sorcerer & Druid changes
+
+**New Spell**
+Create Blank Rune
+- Creates 1 blank rune for 50 mana and 1 soup loint.
+- Cannot be cast in a protection zone
+
+---
+
 **Magic Shield**
 Magic Shield (utamo vita) now completely absorbs 40% of all damage taken. It costs no mana upon taking damage.
 utamo vita gives you a shield of 300 + 7.6 x level + 7 x magic-level. The mana cost to cast the spell is 50% of the amount of shield it provides.
