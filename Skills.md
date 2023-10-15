@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T06:14:37.259Z
+date: 2023-10-15T13:22:23.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -111,11 +111,10 @@ Wheel of Destiny conviction augment further increases damage by +**20%**.
 ---
 
 **Magic Shield**
-Magic Shield (utamo vita) now completely absorbs 40% of all damage taken. It costs no mana upon taking damage.
-utamo vita gives you a shield of 300 + 7.6 x level + 7 x magic-level. The mana cost to cast the spell is 50% of the amount of shield it provides.
-Example: If you're level 500 with magic level 100 you'll get 4800 magic shield points (purple bar). Casting utamo vita will cost 2400 mana.
-When you take damage, 40% will go to that shield instead, the other 60% will go to your health
-Magic shield nodes on wheel of destiny also affect this shield
+- Magic Shield (utamo vita) now completely absorbs 40% of all damage taken. It costs no mana upon taking damage.
+- Grants a shield of 300 + 7.6 x level + 7 x magic-level. The mana cost to cast the spell is 50% of the amount of shield it provides.
+- Example: If you're level 500 with magic level 100 you'll get 4800 magic shield points (purple bar). Casting utamo vita will cost 2400 mana. When you take damage, 40% will go to that shield instead, the other 60% will go to your health.
+- Magic shield nodes on Wheel of Destiny also affect this shield.
 
 ---
 
