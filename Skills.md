@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-14T14:36:06.784Z
+date: 2023-10-15T01:35:05.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -21,7 +21,7 @@ Elysiera introduces a number of changes to many items, and spells.
 - All throwing weapons chain to up to 5 targets.
 
 **Runes revamped**
-- AOE runes (Great Fireball, etc) damage increased by **26%**.
+- AOE runes (Great Fireball, etc) damage increased by ~**26%**.
 **Single Target rune revamp:**
 - Fireball now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
 - Stalagmite now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
@@ -80,7 +80,15 @@ Skill has been completely revamped.
 
 **Train Party:**
 
--   Increases party skills by 2% (primary skill; i.e. magic for mages, distance for paladins, does not affect other knights) (does not stack with other knights)
+-   Increases party skills by **2%** (primary skill; i.e. magic for mages, distance for paladins, does not affect other knights) (does not stack with other knights)
+
+**Berserk**
+- Damage increased by ~**33%**.
+
+**Fierce Berserk**
+- Damage increased by ~**25%**
+
+Wheel of Destiny augment further increases damage by +**20%**.
 
 ## Sorcerer skill changes
 
