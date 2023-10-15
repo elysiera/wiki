@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T01:59:22.454Z
+date: 2023-10-15T02:05:42.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -123,45 +123,47 @@ Casting the next Ultimate Strike while having stacks of Elemental Charge will mu
 
 ## Outfits and other misc cosmetic changes
 
-**Druid Outfit**
+All changes affect both the base outfit and the addons.
+
+**Druid outfit and addons**
 - Requires **25** wolf paws instead of 50.
 - Requires **25** bear paws instead of 50.
 - Requires **50** demon dust instead of 100.
 
-**Assassin outfit**
+**Assassin outfit and addons**
 - Requires **15** beholder eyes instead of 30.
 - Requires **5** red dragon scales instead of 10.
 - Requires **25** pieces of cloth instead of 50.
 - Requires **5** spools of yarn instead of 10.
 
-**Citizen outfit**
+**Citizen outfit and addons**
 - Requires **50** chicken feathers instead of 100.
 
-**Barbarian outfit**
+**Barbarian outfit and addons**
 - Requires **50** spools of yarn instead of 100.
 - Requires **25** Red and Green pieces of cloth instead of 50.
 
-**Warrior outfit**
+**Warrior outfit and addons**
 - Requires **50** turtle shells instead of 100.
 
-**Knight outfit**
+**Knight outfit and addons**
 - Requires **50** behemoth fangs instead of 100
 
-**Wizard outfit**
+**Wizard outfit and addons**
 - Requires **30** holy orchids instead of 50.
 
-**Mage/Summoner outfit**
+**Mage/Summoner outfit and addons**
 - Requires **5** spider silk yarn instead of 10.
 - Requires **20** holy orchids instead of 35.
 - Requires **20** red dragon scales instead of 20.
 - Requires **20** vampire dust instead of 30.
 - Requires **10** ankhs instead of 20.
 
-**Oriental outfit**
+**Oriental outfit and addons**
 - Requires **50** blue pieces of cloth instead of 100.
 - Requires **50** ape furs instead of 100.
 
-**Rascoohan outfit**
+**Rascoohan outfit and addons**
 - Unlocked by killing Ratmiral Blackwhiskers.
 - Addon #1 unlocked by obtaining and using the Soap item, dropped by Ratmiral Blackwhiskers.
 - Addon #2 unlocked by obtaining and using the Scrubbing Brush item, dropped by Ratmiral Blackwhiskers.
