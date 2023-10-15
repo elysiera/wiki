@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T02:07:17.345Z
+date: 2023-10-15T05:58:25.046Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -74,9 +74,6 @@ Skill has been completely revamped.
 
 -   Chain effect on up to 6 targets (base)
 -   Skips already affected creatures
-
-**Challenge:**
-
 -   Ranged targets rush into melee range (except for bosses)
 
 **Train Party:**
@@ -89,7 +86,7 @@ Skill has been completely revamped.
 **Fierce Berserk**
 - Damage increased by ~**25%**
 
-Wheel of Destiny augment further increases damage by +**20%**.
+Wheel of Destiny conviction augment further increases damage by +**20%**.
 
 ## Sorcerer skill changes
 
