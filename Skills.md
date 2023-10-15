@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T02:05:42.436Z
+date: 2023-10-15T02:07:17.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -133,7 +133,7 @@ All changes affect both the base outfit and the addons.
 **Assassin outfit and addons**
 - Requires **15** beholder eyes instead of 30.
 - Requires **5** red dragon scales instead of 10.
-- Requires **25** pieces of cloth instead of 50.
+- Requires **25** green, red, blue, white, brown, yellow pieces of cloth instead of 50.
 - Requires **5** spools of yarn instead of 10.
 
 **Citizen outfit and addons**
