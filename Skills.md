@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T06:08:12.005Z
+date: 2023-10-15T06:09:13.548Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -71,7 +71,7 @@ Skill has been completely revamped.
 
 **New Spell**
 Create Blank Rune
-- Creates 1 blank rune for 50 mana and 1 soup loint.
+- Creates 1 blank rune for 50 mana and 1 soul point.
 - Cannot be cast in a protection zone
 
 ## Knight skill changes
@@ -105,7 +105,7 @@ Wheel of Destiny conviction augment further increases damage by +**20%**.
 
 **New Spell**
 Create Blank Rune
-- Creates 1 blank rune for 50 mana and 1 soup loint.
+- Creates 1 blank rune for 50 mana and 1 soul point.
 - Cannot be cast in a protection zone
 
 ---
