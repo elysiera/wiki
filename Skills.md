@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T06:09:13.548Z
+date: 2023-10-15T06:14:37.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -104,7 +104,7 @@ Wheel of Destiny conviction augment further increases damage by +**20%**.
 ## Sorcerer & Druid changes
 
 **New Spell**
-Create Blank Rune
+**Create Blank Rune**
 - Creates 1 blank rune for 50 mana and 1 soul point.
 - Cannot be cast in a protection zone
 
