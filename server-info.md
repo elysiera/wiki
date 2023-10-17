@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T01:24:35.681Z
+date: 2023-10-17T01:25:08.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -13,7 +13,6 @@ dateCreated: 2023-09-30T06:00:06.168Z
 -   **Protocol**: 13.21
 -   **Server type**: non-PVP
 -   **Location**: Montreal - Canada
--   **Loot rate**: 1.5✕
 -   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
 -   **Greater security**: `bcrypt` salted and encrypted password, optional 2-factor-authentication
 -   **Weekly Vouchers**:
@@ -25,6 +24,8 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 **Experience:** 10✕ to 2✕
 ![exp-rate.png](/exp-rate.png)
+
+**Loot rate**: 1.5✕
 
 **Skills/Magic Level:** 3✕
 
