@@ -2,13 +2,13 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-15T13:22:23.547Z
+date: 2023-10-17T01:19:56.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
 ---
 
-# Skill and Item changes
+# Spell and Item changes
 
 Elysiera introduces a number of changes to many items, and spells.
 
@@ -30,7 +30,7 @@ Elysiera introduces a number of changes to many items, and spells.
 - Heavy Magic Missile now chains to up to 5 targets. Deals **10%** less damage than Sudden Death.
 ***Developer notes:** We wanted to give outdated runes a situational use. The Sudden Death rune has been the goto rune for single target. Certain monster resistances or vulnerabilities will give the player the option to optimize damage with elemental runes.*
 
-## Paladin skill changes
+## Paladin spell changes
 **Divine Dazzle:**
 
 -   Chain effect, up to 5 targets (base)
@@ -93,9 +93,7 @@ Create Blank Rune
 
 Wheel of Destiny conviction augment further increases damage by +**20%**.
 
-## Sorcerer skill changes
-
-## Druid skill changes
+## Druid spell changes
 
 **Heal Party:**
 
