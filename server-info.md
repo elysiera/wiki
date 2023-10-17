@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-15T13:27:46.629Z
+date: 2023-10-17T01:14:44.064Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -13,7 +13,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 -   **Protocol**: 13.21
 -   **Server type**: non-PVP
 -   **Location**: Montreal - Canada
--   **Loot rate**: 2✕
+-   **Loot rate**: 1.5
 -   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
 -   **Greater security**: `bcrypt` salted and encrypted password, optional 2-factor-authentication
 -   **Weekly Vouchers**:
@@ -120,34 +120,11 @@ You get some basic gold rewards at a few levels:
 
 ## Rates
 
-**Experience Stages**
+**Experience:** 10✕ to 2✕
+![exp-rate.png](/exp-rate.png)
 
-| Level range | Rate | Level range | Rate | Level range | Rate |
-| --- | --- | --- | --- | --- | --- |
-| 1 – 9 | 10✕ | 150 – 199 | 35✕ | 400 – 499 | 15✕ |
-| 10 – 29 | 25✕ | 150 – 199 | 35✕ | 500 – 699 | 10✕ |
-| 30 – 59 | 50✕ | 200 – 249 | 30✕ | 700 – 999 | 5✕  |
-| 60 – 99 | 45✕ | 250 – 299 | 25✕ | 1000 – ∞ | 3✕  |
-| 100 – 149 | 40✕ | 300 – 399 | 20✕ |     |     |
+**Skills/Magic Level:** 3✕
 
-**Magic Level Stages**
-
-| Magic range | Rate |
-| --- | --- |
-| 0 – 60 | 6✕  |
-| 61 – 80 | 15✕ |
-| 81 – 100 | 10✕ |
-| 101 – ∞ | 5✕  |
-
-**Skill Stages**
-
-| Skill range | Rate |
-| --- | --- |
-| 10 – 60 | 40✕ |
-| 61 – 80 | 30✕ |
-| 81 – 110 | 15✕ |
-| 111 – 125 | 10✕ |
-| 126 – ∞ | 5✕  |
 
 ## Server Commands
 #### **General commands:**
