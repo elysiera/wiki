@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T01:25:36.855Z
+date: 2023-10-17T04:16:06.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -114,6 +114,6 @@ Stand in front of the door, have another player nearby, click them and it will i
 -   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill.
 -   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
 -   Every character starts with a base of 50% critical hit damage. This adds up with imbuments. For example, a player with a Powerful Strike imbument will deal 100% critical damage.
--   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions slightly more effective. Their biggest impact is on the *average* healing of a potion though, not the maximum.
+-   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions more effective, in terms of both their minimum and maximum output.
 -   *New skill* **Dexterity**: You level up *dexterity* by simply taking damage. The more damage you take, the more you'll level up this skill. Currently dexterity only provides a small passive chance of triggering "dodge".
 -   The *MAXIMUM* resistance any creature can have to any element is 30%. This means that every element is somewhat viable in every situation.
