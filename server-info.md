@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T04:16:06.610Z
+date: 2023-10-17T04:17:46.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -111,7 +111,7 @@ Stand in front of the door, have another player nearby, click them and it will i
     -   Clubs deal area damage the same size as *diamond arrows*  
         (-50% damage).
     -   All training weapons and imbuments that previously affected sword, axe or club will affect melee. Fist fight fighting is melee and has been slightly buffed.
--   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill.
+-   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill. This skill levels up faster the more monsters you hit with a rune; damage dealt is irrelevant!
 -   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
 -   Every character starts with a base of 50% critical hit damage. This adds up with imbuments. For example, a player with a Powerful Strike imbument will deal 100% critical damage.
 -   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions more effective, in terms of both their minimum and maximum output.
