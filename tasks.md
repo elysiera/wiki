@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-17T01:57:58.814Z
+date: 2023-10-17T01:58:47.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T01:57:58.814Z
@@ -14,7 +14,7 @@ Players can do up to 2 tasks a day (3 if [VIP](/en/vip-features)), they can be s
 
 Kill tasks are timed trials, you have 30 minutes to kill as many of a certain creature as you can. There are a few task tiers:
 
-| Tier | Tokens | Gold | Experience |
+| Tier | Hunter Tokens | Gold | Experience |
 | -- | -- | -- | -- |
 | A | 20 | 300k | 50% of a level (maximum level 1000) |
 | B | 15 | 200k | 50% of a level (maximum level 500) |
