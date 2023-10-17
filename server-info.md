@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T01:15:01.491Z
+date: 2023-10-17T01:17:17.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -40,6 +40,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 You get some basic gold rewards at a few levels:
 
+-   Level 8: 20 Hunter Tokens
 -   Level 50: 20,000 gold
 -   Level 100: 50,000 gold
 -   Level 150: 100,000 gold
