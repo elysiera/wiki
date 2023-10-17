@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T01:17:17.988Z
+date: 2023-10-17T01:24:35.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -13,13 +13,20 @@ dateCreated: 2023-09-30T06:00:06.168Z
 -   **Protocol**: 13.21
 -   **Server type**: non-PVP
 -   **Location**: Montreal - Canada
--   **Loot rate**: 1.5
+-   **Loot rate**: 1.5✕
 -   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
 -   **Greater security**: `bcrypt` salted and encrypted password, optional 2-factor-authentication
 -   **Weekly Vouchers**:
     -   4 hours of double experience (Refreshed on Wednesday)
     -   12 hours of double skill (Refreshed on Thursday)
 -   **Free quests**: Access quests unlocked so you can hunt spawns and the bosses you want
+
+## Rates
+
+**Experience:** 10✕ to 2✕
+![exp-rate.png](/exp-rate.png)
+
+**Skills/Magic Level:** 3✕
 
 ## Training
 
@@ -45,87 +52,6 @@ You get some basic gold rewards at a few levels:
 -   Level 100: 50,000 gold
 -   Level 150: 100,000 gold
 -   Level 200: 200,000 gold
-
-## Custom systems
-
--   Diamond arrows are 1sqm larger and deal more damage.
--   Wands/rods damage scale up with magic level and level, and can chain up to 4 creatures
--   All melee skills have been merged into **Melee fighting**.
-    -   Swords are powerful single target weapons that deal more damage faster  
-        (+20% attack speed, regular damage formula).
-    -   Axes can chain up to 5 creatures that are standing besides eachother  
-        (-20% damage).
-    -   Clubs deal area damage the same size as *diamond arrows*  
-        (-50% damage).
-    -   All training weapons and imbuments that previously affected sword, axe or club will affect melee. Fist fight fighting is melee and has been slightly buffed.
--   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill.
--   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
--   Every character starts with a base of 50% critical hit damage. This adds up with imbuments. For example, a player with a Powerful Strike imbument will deal 100% critical damage.
--   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions slightly more effective. Their biggest impact is on the *average* healing of a potion though, not the maximum.
--   *New skill* **Dexterity**: You level up *dexterity* by simply taking damage. The more damage you take, the more you'll level up this skill. Currently dexterity only provides a small passive chance of triggering "dodge".
--   The *MAXIMUM* resistance any creature can have to any element is 30%. This means that every element is somewhat viable in every situation.
-
-## Some Spell Changes
-
-**Divine Dazzle:**
-
--   Chain effect on up to 5 creatures (base)
--   Works on melee creatures (if they can run on low health)
--   Prevents creatures from running on low health
--   Skips already affected creatures
-
-**Sharpshooter**
-- Now grants 1 charge instead of boosting damage. Charge will allow you to change the effect of one of the following skills:
-- *Ethereal Spear*: Fires 5 times for -25% damage per shot.
-- *Strong Ethereal Spear*: Deals +25% damage and changes its element to the targets lowest element
-- *Divine Missile*: +25% damage.
-- *Divine Caldera*: Casts twice. Second cast costs no mana.
-
-*Rank 2 of Augmented Sharpshooter Wheel of Destiny convication gives 2 charges instead of 1*
-
-
-**Chivalrous Challenge:**
-
--   Chain effect on up to 6 creatures (base)
--   skips already affected creatures
-
-**Challenge:**
-
--   Changes ranged creatures to melee (except for bosses)
-
-**Train Party:**
-
--   increases party skills by 2% (primary skill; i.e. magic for mages, distance for paladins, does not affect other knights) (does not stack with other knights)
-
-**Protect Party:**
-
--   decreases party members damage take by 1%
-
-**Heal Party:**
-
--   30 health per second (instead of 20 every 2)
-
-**Divine Missile**
-
--   Chain effect on up to 5 creatures
--   ***Developer notes:** Divine Missile and Ethereal Spear are nearly identical. We wanted to define a situational usage for one spell over the other.*
-
-**Rune Rebalancing:**
-
--   *Fireball:* Damage increased to approximately 90% of Sudden Death.
--   *Heavy Magic Missile:* Damage increased to approximately 90% of Sudden Death.
--   *Icicle:* Damage increased to approximately 90% of Sudden Death.
--   *Stalagmite:* Damage increased to approximately 90% of Sudden Death.
--    All 4 runes have been given a chain effect, up to 5 creatures.
--   ***Developer notes:** We want to give outdated runes a situational use. The Sudden Death rune has been the goto rune for single target. Certain monster resistances or vulnerabilities will give the player the option to optimize damage with elemental runes.*
-
-## Rates
-
-**Experience:** 10✕ to 2✕
-![exp-rate.png](/exp-rate.png)
-
-**Skills/Magic Level:** 3✕
-
 
 ## Server Commands
 #### **General commands:**
@@ -171,3 +97,22 @@ Stand in front of the door to buy the house.
 Stand inside of the house to abandon the house.
 -   **!sellhouse**
 Stand in front of the door, have another player nearby, click them and it will initiate a trade to sell them the house.
+
+## Custom systems
+
+-   Diamond arrows are 1sqm larger and deal more damage.
+-   Wands/rods damage scale up with magic level and level, and can chain up to 4 creatures
+-   All melee skills have been merged into **Melee fighting**.
+    -   Swords are powerful single target weapons that deal more damage faster  
+        (+20% attack speed, regular damage formula).
+    -   Axes can chain up to 5 creatures that are standing besides eachother  
+        (-20% damage).
+    -   Clubs deal area damage the same size as *diamond arrows*  
+        (-50% damage).
+    -   All training weapons and imbuments that previously affected sword, axe or club will affect melee. Fist fight fighting is melee and has been slightly buffed.
+-   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill.
+-   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
+-   Every character starts with a base of 50% critical hit damage. This adds up with imbuments. For example, a player with a Powerful Strike imbument will deal 100% critical damage.
+-   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions slightly more effective. Their biggest impact is on the *average* healing of a potion though, not the maximum.
+-   *New skill* **Dexterity**: You level up *dexterity* by simply taking damage. The more damage you take, the more you'll level up this skill. Currently dexterity only provides a small passive chance of triggering "dodge".
+-   The *MAXIMUM* resistance any creature can have to any element is 30%. This means that every element is somewhat viable in every situation.
