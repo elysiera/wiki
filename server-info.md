@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-17T01:25:08.738Z
+date: 2023-10-17T01:25:36.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -25,7 +25,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 **Experience:** 10✕ to 2✕
 ![exp-rate.png](/exp-rate.png)
 
-**Loot rate**: 1.5✕
+**Loot**: 1.5✕
 
 **Skills/Magic Level:** 3✕
 
