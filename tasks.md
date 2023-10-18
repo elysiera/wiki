@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-17T02:01:27.319Z
+date: 2023-10-18T18:45:47.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T01:57:58.814Z
@@ -34,3 +34,10 @@ And in turn, each rank will give you a boosted gold and experience reward:
 - **Journeyman**: Experience 1.2✕, Gold: 1.1✕
 - **Epic**: Experience 1.4✕, Gold: 1.2✕
 - **Legendary**: Experience 1.6✕, Gold: 1.3✕
+
+## Party
+
+When hunting in a party, the requirements change a bit. The formula is `requiredKills * partySize * 0.9`. So for example:
+
+**2 people, C-tier, commoner**: 400 * 2 * 0.9 = 720
+**4 people, A-tier, legendary**: 1000 * 4 * 0.9 = 3600
