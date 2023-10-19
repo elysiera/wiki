@@ -1,8 +1,8 @@
 ---
-title: Server Info
+title: Informações Gerais do Servidor
 description: 
 published: true
-date: 2023-10-19T02:57:45.769Z
+date: 2023-10-19T18:56:30.053Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
