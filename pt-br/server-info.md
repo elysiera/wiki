@@ -2,57 +2,58 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-19T02:47:25.776Z
+date: 2023-10-19T02:55:35.312Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
 ---
 
-## General Info
-
--   **Protocol**: 13.21
--   **Server type**: non-PVP
--   **Location**: Montreal - Canada
--   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
--   **Greater security**: `bcrypt` salted and encrypted password, optional 2-factor-authentication
--   **Weekly Vouchers**:
-    -   4 hours of double experience (Refreshed on Wednesday)
-    -   12 hours of double skill (Refreshed on Thursday)
--   **Free quests**: Access quests unlocked so you can hunt spawns and the bosses you want
+## Informações Gerais
+- **Protocolo**: 13.21
+- **Tipo de Servidor**: Retro-PVP
+- **Localização**: Brasil
+- **Taxa de Loot**: 2✕
+- **Autoloot & Autobank**: Manage containers no jogo para loot, coins vão diretamente para sua conta bancária.
+- **Maior segurança**: bcrypt` salted e encrypted password, autenticação de dois fatores opcional
+- **Vouchers Semanais**:
+  - 4 horas de experiência em dobro
+  - 12 horas de habilidade em dobro
+- **Missões Grátis**: Acesse missões desbloqueadas para que você possa caçar spawns e os bosses que desejar
 
 ## Rates
 
-**Experience:** 10✕ to 2✕
+**Experiência:** 10✕ para 2✕
 ![exp-rate.png](/exp-rate.png)
 
 **Loot**: 1.5✕
 
 **Skills/Magic Level:** 3✕
 
-## Training
+## Treinamento
 
--   **Free, infinite, training weapons**: These are 20% as effective as regular exercise weapons, but last forever!
--   **Basic exercise weapons**: Baseline weapons (5x more effective than the infinite ones). You get them in game at [Online Points](https://elysiera.com/pages/online-points) store, for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
--   **Enhanced exercise weapons**: 20% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
--   **Masterful exercise weapons**: 30% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
+- **Armas de treinamento gratuitas e infinitas**: São 20% menos eficazes do que as armas de exercício regulares, mas duram para sempre!
+
+- **Armas de exercício básicas**: Armas de base (5x mais eficazes do que as infinitas). Você as obtém no jogo na [Online Points](https://Brasiliyera.com/pages/online-points) loja, por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+
+- **Armas de exercício aprimoradas**: 20% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+
+- **Armas de exercício magistrais**: 30% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
 ## Blessings
 
--   All 7 regular blessings available (you start with the basic 5 for free)
--   Use `!bless` in game to buy blessings
--   Free until level 100
--   From level 101 -> 399: `(level - 100) * 60 + 1000` *(per blessing)*
--   Levels 400+: 20,000 *(per blessing)*
+- Todas as 7 blessings regulares disponíveis (você começa com as 5 básicas de graça)
+- Use `!bless` no jogo para comprar bless
+- Grátis até o nível 100
+- Do nível 101 -> 399: `(nível - 100) * 60 + 1000` _(por bless)_
+- Níveis 400+: 20.000 _(por bless)_
 
-## Level rewards
+## Recompensas por nível
 
-You get some basic gold rewards at a few levels:
-
--   Level 8: 20 Hunter Tokens
--   Level 50: 20,000 gold
--   Level 100: 50,000 gold
--   Level 150: 100,000 gold
--   Level 200: 200,000 gold
+Você recebe algumas recompensas básicas de gold em alguns níveis:
+- Nível 50: 20.000 gold
+- Nível 100: 50.000 gold
+- Nível 150: 100.000 gold
+- Nível 200: 200.000 gold
 
 ## Server Commands
 #### **General commands:**
@@ -78,42 +79,40 @@ Lists the server status
 -   **!time**
 Displays the current game world time
 
-
-#### **Bank commands**
-*Do not include the (brackets) when typing these commands*
--   **!withdraw (amount)**
-Withdraw money from your bank
--   **!transfer (player name), (amount)**
-Send money to another player
+#### **Comandos do banco**
+*Não inclua os (colchetes) ao digitar esses comandos*
+-   **!withdraw (quantidade)**
+Retire dinheiro do seu banco
+- **!transfer (nome do jogador), (quantia)**
+Envie dinheiro para outro jogador
 -   **!balance**
-Check your bank balance
--   **!deposit (amount) *or* !deposit all**
-Deposit a specific amount of money in your backpack to your bank.
-Or deposit all money in your backpack into your bank.
+Verifique seu saldo bancário
+- **!depot (valor) *ou* !depot all**
+Deposite uma quantia específica de dinheiro em sua mochila no banco.
+Ou deposite todo o dinheiro da sua mochila no banco.
 
-#### **Housing commands:**
+#### **Comandos de houses (casas):**
 -   **!buyhouse**
-Stand in front of the door to buy the house.
--   **!leavehouse**
-Stand inside of the house to abandon the house.
--   **!sellhouse**
-Stand in front of the door, have another player nearby, click them and it will initiate a trade to sell them the house.
+Fique na frente da porta para comprar a casa.
+-   **!leavehous**
+Fique dentro de casa para abandoná-la.
+- **!sellhouse**
+Fique na frente da porta, tenha outro jogador por perto, clique nele e ele iniciará uma negociação para vender a casa.
 
-## Custom systems
-
--   Diamond arrows are 1sqm larger and deal more damage.
--   Wands/rods damage scale up with magic level and level, and can chain up to 4 creatures
--   All melee skills have been merged into **Melee fighting**.
-    -   Swords are powerful single target weapons that deal more damage faster  
-        (+20% attack speed, regular damage formula).
-    -   Axes can chain up to 5 creatures that are standing besides eachother  
-        (-20% damage).
-    -   Clubs deal area damage the same size as *diamond arrows*  
-        (-50% damage).
-    -   All training weapons and imbuments that previously affected sword, axe or club will affect melee. Fist fight fighting is melee and has been slightly buffed.
--   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill. This skill levels up faster the more monsters you hit with a rune; damage dealt is irrelevant!
--   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
--   Every character starts with a base of 50% critical hit damage. This adds up with imbuments. For example, a player with a Powerful Strike imbument will deal 100% critical damage.
--   *New skill* **Tonicity**: You level up *tonicity* by simply drinking potions. Higher tonicity makes potions more effective, in terms of both their minimum and maximum output.
--   *New skill* **Dexterity**: You level up *dexterity* by simply taking damage. The more damage you take, the more you'll level up this skill. Currently dexterity only provides a small passive chance of triggering "dodge".
--   The *MAXIMUM* resistance any creature can have to any element is 30%. This means that every element is somewhat viable in every situation.
+## Sistemas Personalizados
+- As diamond arrows têm 1sqm a mais de tamanho e causam mais dano.
+- O dano de wands e rods aumenta com o nível mágico (magic level) e o nível do jogador, e pode atingir até 4 criaturas.
+- Todas as habilidades de combate melee foram fundidas em **melee fighting (combate corpo a corpo)**.
+  - Swords (espadas) são armas poderosas de alvo único que causam mais dano rapidamente
+    (+20% de velocidade de ataque, fórmula de dano regular).
+  - Axes (machados) podem atingir até 5 criaturas que estão uma ao lado da outra
+    (-20% de dano).
+  - Clubs (clavas) causam dano em área do mesmo tamanho que as _diamond arrows_
+    (-50% de dano).
+  - Todas as training weapons (armas de treino) e imbuements que anteriormente afetavam sword, axe ou club agora afetarão o combate melee. First fighting (luta de punho) é considerado melee e foi ligeiramente aprimorado.
+- **Nova habilidade**  **Runic fighting (combate rúnico)**: Você aumenta o nível de _runic fighting_ toda vez que causa dano a um inimigo com uma rune (runa). As runes recebem um boost (impulso) de dano com base na runic fighting do jogador.
+- **Nova habilidade**  **Luck (sorte)**: Você aumenta o nível de _Luck_ looteando itens raros. Luck lhe proporciona mais loot e também lhe dá _critical hit chance_!
+- Todo personagem começa com um acréscimo de 50% de critical hit damage (dano crítico). Isso se acumula com imbuements. Por exemplo, um jogador com o imbuement Powerful Strike causará 100% de critical damage.
+- **Nova habilidade**  **Tonicity (Tonicidade)**: Você aumenta o nível de _tonicity_ simplesmente bebendo poções. Maior tonicidade torna as poções ligeiramente mais eficazes. O maior impacto é na média de cura de uma poção, não na quantidade máxima.
+- **Nova habilidade**  **Dexterity (Destreza)**: Você aumenta o nível de _dexterity_ simplesmente recebendo dano. Quanto mais dano você recebe, mais essa habilidade aumenta. Atualmente, a dexterity fornece apenas uma pequena chance passiva de ativar "dodge".
+- A **resistência máxima** que uma criatura pode ter a qualquer elemento é de 30%. Isso significa que todo elemento é de alguma forma viável em todas as situações.
