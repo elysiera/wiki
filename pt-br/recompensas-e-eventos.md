@@ -2,7 +2,7 @@
 title: Recompesas e Eventos
 description: 
 published: true
-date: 2023-10-19T14:38:39.537Z
+date: 2023-10-19T14:39:20.829Z
 tags: eventos, recompensas, recompensas e eventos
 editor: markdown
 dateCreated: 2023-10-19T14:36:51.291Z
@@ -22,11 +22,11 @@ Isso pode ser ativado e pausado a qualquer momento, e eles serão automaticament
 Nossas recompensas diárias são um pouco diferentes do que você está acostumado, nós damos algumas concoctions (poções especiais) na maioria dos dias para você aproveitar durante suas hunts (caçadas).
 
 - **Dia 1**: Uma wealth duplex concoction
-- **Dia 2**: Escolha um amplification concoction
+- **Dia 2**: Escolha um dos amplification concoction abaixo:
 ![dia 2](https://res.cloudinary.com/dwzt6r3eh/image/upload/v1690778721/SCR-20230730-u7q_a9flep.png)
 - **Dia 3**: 5 prey wildcard
-- **Dia 4**: Escolha um amplification concoction
+- **Dia 4**: Escolha um dos amplification concoction abaixo:
 ![dia 4](https://res.cloudinary.com/dwzt6r3eh/image/upload/v1690778813/SCR-20230730-u90_ywfyis.png)
 - **Dia 5**: 5 prey wildcard
-- **Dia 6**: Escolha um: kooldown aid ou stamina extension, charm upgrade ou bestiary betterment
+- **Dia 6**: Escolha um destes: kooldown aid ou stamina extension, charm upgrade ou bestiary betterment
 - **Dia 7**: Uma hora inteira de aumento de +50% de experiência!
