@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-19T02:57:22.364Z
+date: 2023-10-19T02:57:45.769Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-19T02:47:25.774Z
 ## Informações Gerais
 - **Protocolo**: 13.21
 - **Tipo de Servidor**: Retro-PVP
-- **Localização**: Brasil
+- **Localização**: Brasil (São Paulo)
 - **Taxa de Loot**: 2✕
 - **Autoloot & Autobank**: Manage containers no jogo para loot, coins vão diretamente para sua conta bancária.
 - **Maior segurança**: `bcrypt` salted e encrypted password, autenticação de dois fatores opcional
