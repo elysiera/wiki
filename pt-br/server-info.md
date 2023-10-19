@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-19T02:55:35.312Z
+date: 2023-10-19T02:57:22.364Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-19T02:47:25.774Z
 - **Localização**: Brasil
 - **Taxa de Loot**: 2✕
 - **Autoloot & Autobank**: Manage containers no jogo para loot, coins vão diretamente para sua conta bancária.
-- **Maior segurança**: bcrypt` salted e encrypted password, autenticação de dois fatores opcional
+- **Maior segurança**: `bcrypt` salted e encrypted password, autenticação de dois fatores opcional
 - **Vouchers Semanais**:
   - 4 horas de experiência em dobro
   - 12 horas de habilidade em dobro
