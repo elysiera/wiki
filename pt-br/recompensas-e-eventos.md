@@ -2,7 +2,7 @@
 title: Recompesas e Eventos
 description: 
 published: true
-date: 2023-10-19T14:39:20.829Z
+date: 2023-10-19T14:40:00.379Z
 tags: eventos, recompensas, recompensas e eventos
 editor: markdown
 dateCreated: 2023-10-19T14:36:51.291Z
@@ -28,5 +28,5 @@ Nossas recompensas diárias são um pouco diferentes do que você está acostuma
 - **Dia 4**: Escolha um dos amplification concoction abaixo:
 ![dia 4](https://res.cloudinary.com/dwzt6r3eh/image/upload/v1690778813/SCR-20230730-u90_ywfyis.png)
 - **Dia 5**: 5 prey wildcard
-- **Dia 6**: Escolha um destes: kooldown aid ou stamina extension, charm upgrade ou bestiary betterment
+- **Dia 6**: Escolha um destes: 'kooldown aid', 'stamina extension', 'charm upgrade' ou 'bestiary betterment'
 - **Dia 7**: Uma hora inteira de aumento de +50% de experiência!
