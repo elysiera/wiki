@@ -2,7 +2,7 @@
 title: Skill Formulas
 description: 
 published: true
-date: 2023-10-19T18:17:17.810Z
+date: 2023-10-19T18:17:38.768Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T03:25:31.995Z
