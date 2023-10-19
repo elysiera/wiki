@@ -2,7 +2,7 @@
 title: Spells and Item Changes
 description: 
 published: true
-date: 2023-10-19T15:58:02.153Z
+date: 2023-10-19T15:59:49.411Z
 tags: item changes, skills, spell, spells
 editor: markdown
 dateCreated: 2023-10-19T14:52:14.465Z
