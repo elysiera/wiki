@@ -2,17 +2,17 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-19T17:25:38.197Z
-tags: tasks, missões
+date: 2023-10-19T17:28:05.634Z
+tags: missões, tasks
 editor: markdown
 dateCreated: 2023-10-19T17:25:38.197Z
 ---
 
-Os jogadores podem realizar até 2 tarefas por dia (3 se forem [VIP](/en/vip-features)), e elas podem ser iniciadas usando o `task tracker` (rastreador de tarefas) em seu inventário: ![task-tracker(inactive).png](/task-tracker(inactive).png)
+### Os jogadores podem realizar até 2 tarefas por dia (3 se forem [VIP](/en/vip-features)), e elas podem ser iniciadas usando o `task tracker` (rastreador de tarefas) em seu inventário, o item tem a seguinte aparência: ![task-tracker(inactive).png](/task-tracker(inactive).png)
 
 # Tasks de Kills
 
-As tasks (pequenas missões) de kills (mortes) são desafios cronometrados, nos quais você tem 30 minutos para eliminar o máximo possível de uma determinada criatura. Existem algumas categorias de tarefas:
+As tasks kills (pequenas missões de morte) são desafios cronometrados, nos quais você tem 30 minutos para matar o máximo possível de uma determinada criatura. Existem algumas categorias de tarefas:
 
 | Categoria | Hunter Tokens | Gold | Experiência |
 | -- | -- | -- | -- |
