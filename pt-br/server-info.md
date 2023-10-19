@@ -2,7 +2,7 @@
 title: Informações Gerais do Servidor
 description: 
 published: true
-date: 2023-10-19T18:56:30.053Z
+date: 2023-10-19T19:00:25.517Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
@@ -33,7 +33,7 @@ dateCreated: 2023-10-19T02:47:25.774Z
 
 - **Armas de treinamento gratuitas e infinitas**: São 20% menos eficazes do que as armas de exercício regulares, mas duram para sempre!
 
-- **Armas de exercício básicas**: Armas de base (5x mais eficazes do que as infinitas). Você as obtém no jogo na [Online Points](https://Brasiliyera.com/pages/online-points) loja, por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+- **Armas de exercício básicas**: Armas de base (5x mais eficazes do que as infinitas). Você as obtém no jogo na loja, por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
 - **Armas de exercício aprimoradas**: 20% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
