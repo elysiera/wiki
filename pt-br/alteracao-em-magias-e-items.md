@@ -2,7 +2,7 @@
 title: Alteração em Magias e Items
 description: 
 published: true
-date: 2023-10-19T16:00:43.853Z
+date: 2023-10-19T16:01:13.246Z
 tags: item changes, skills, spell, spells
 editor: markdown
 dateCreated: 2023-10-19T14:52:14.465Z
