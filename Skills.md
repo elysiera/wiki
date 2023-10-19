@@ -2,7 +2,7 @@
 title: Skill and Item changes
 description: 
 published: true
-date: 2023-10-17T01:19:56.976Z
+date: 2023-10-19T15:58:16.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -33,6 +33,7 @@ Elysiera introduces a number of changes to many items, and spells.
 ## Paladin spell changes
 **Divine Dazzle:**
 
+-   Words: `exana amp res`
 -   Chain effect, up to 5 targets (base)
 -   Works on melee creatures (if they can run on low health)
 -   Prevents creatures from running on low health
@@ -40,15 +41,17 @@ Elysiera introduces a number of changes to many items, and spells.
 
 **Protect Party:**
 
+-   Words: `utamo mas sio`
 -   Decreases party members damage take by **1%**.
 
 **Divine Missile**
-
+-   Words: `exori san`
 -   Chain effect, up to 5 targets.
 -   ***Developer notes:** Divine Missile and Ethereal Spear are nearly identical. We wanted to define a situational usage for one spell over the other.*
 
 **Sharpshooter**
 Skill has been completely revamped.
+- Words: `utito tempo san`
 - Now grants 1 charge instead of boosting damage. Charge will allow you to change the effect of one of the following skills:
 - *Ethereal Spear*: Fires 5 times for -25% damage per shot.
 - *Strong Ethereal Spear*: Deals +10% damage and changes its element to the targets lowest elemental resistance.
@@ -58,37 +61,42 @@ Skill has been completely revamped.
 *Rank 2 of Augmented Sharpshooter Wheel of Destiny conviction gives 2 charges instead of 1*
 
 **New spell: Conjure Royal Star**
+- Words: `exevo gran con grav`
 - Creates 30 Royal Stars for 1,000 mana
 - Requires level 150
 
 **New spell: Conjure Spectral Bolts**
+- Words: `exevo gran con vis`
 - Creates 100 Spectral Bolts for 1,000 mana
 - Requires level 150
 
 **New spell: Conjure Diamond Arrows**
+- Words: `exevo gran con hur`
 - Creates 100 Diamond Arrows for 1,000 mana
 - Requires level 150
 
-**New Spell**
-Create Blank Rune
+**New Spell: Create Blank Rune**
+- Words: `adori blank`
 - Creates 1 blank rune for 50 mana and 1 soul point.
 - Cannot be cast in a protection zone
 
 ## Knight skill changes
 **Chivalrous Challenge:**
-
+- Words: `exeta amp res`
 -   Chain effect on up to 6 targets (base)
 -   Skips already affected creatures
 -   Ranged targets rush into melee range (except for bosses)
 
 **Train Party:**
-
+- Words: `utito mas sio`
 -   Increases party skills by **2%** (primary skill; i.e. magic for mages, distance for paladins, does not affect other knights) (does not stack with other knights)
 
 **Berserk**
+- Words: `exori`
 - Damage increased by ~**33%**.
 
 **Fierce Berserk**
+- Words: `exori gran`
 - Damage increased by ~**25%**
 
 Wheel of Destiny conviction augment further increases damage by +**20%**.
@@ -96,27 +104,30 @@ Wheel of Destiny conviction augment further increases damage by +**20%**.
 ## Druid spell changes
 
 **Heal Party:**
-
+- Words: `utura mas sio`
 -   30 health per second (instead of 20 every 2)
 
 ## Sorcerer & Druid changes
 
-**New Spell**
-**Create Blank Rune**
+**New Spell: Create Blank Rune**
+- Words: `adori bank`
 - Creates 1 blank rune for 50 mana and 1 soul point.
 - Cannot be cast in a protection zone
 
 ---
 
 **Magic Shield**
-- Magic Shield (utamo vita) now completely absorbs 40% of all damage taken. It costs no mana upon taking damage.
+- Words: `utamo vita`
+- Magic Shield now completely absorbs 40% of all damage taken. It costs no mana upon taking damage.
 - Grants a shield of 300 + 7.6 x level + 7 x magic-level. The mana cost to cast the spell is 50% of the amount of shield it provides.
 - Example: If you're level 500 with magic level 100 you'll get 4800 magic shield points (purple bar). Casting utamo vita will cost 2400 mana. When you take damage, 40% will go to that shield instead, the other 60% will go to your health.
 - Magic shield nodes on Wheel of Destiny also affect this shield.
 
 ---
 
-**Strong & Ultimate Strike spells have been overhauled.**
+**Strong Strike and Ultimate Strike spells have been overhauled.**
+- Strong Words: `exori gran flam`, `exori gran frigo`, `exori gran tera`, `exori gran vis`
+- Ultimate Words: `exori max flam`, `exori max frigo`, `exori max tera`, `exori max vis`
 - Strong Strikes all share the same cooldown
 - Strong Strikes cooldown reduced to 6 seconds
 - Strong Strikes deal 60% of Sudden Death damage
@@ -176,4 +187,4 @@ All changes affect both the base outfit and the addons.
 - Addon #2 unlocked by obtaining and using the Scrubbing Brush item, dropped by Ratmiral Blackwhiskers.
 
 **Vocation familiars**
-All alternate Familiar appearances can be unlocked by obtaining and using the **Cheesy Key** from Ratmiral Blackwhiskers.
+- All alternate Familiar appearances can be unlocked by obtaining and using the **Cheesy Key** from Ratmiral Blackwhiskers.
