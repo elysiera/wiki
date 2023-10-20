@@ -2,7 +2,7 @@
 title: Elysiera Wiki
 description: 
 published: true
-date: 2023-10-20T01:11:21.651Z
+date: 2023-10-20T01:12:09.971Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T05:06:14.930Z
@@ -11,3 +11,5 @@ dateCreated: 2023-09-30T05:06:14.930Z
 # Welcome to Elysiera Wiki
 
 **Elysiera** wiki is place to gather content about the games [Elysiera](https://elysiera.com) and [Brasiliyera](https://brasiliyera.com).
+
+[Click here](https://wiki.elysiera.com/pt-br/home) to access the Brasiliyera wiki.
