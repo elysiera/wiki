@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-19T17:28:05.634Z
+date: 2023-10-20T02:43:55.855Z
 tags: missões, tasks
 editor: markdown
 dateCreated: 2023-10-19T17:25:38.197Z
@@ -24,8 +24,8 @@ As tasks kills (pequenas missões de morte) são desafios cronometrados, nos qua
 Para completar cada task, você precisa alcançar um dos 4 ranks: **commoner, journeyman, epic, legendary**. A maioria das tasks segue os mesmos padrões, respectivamente:
 
 - Categoria A: 500, 650, 800, 1000 eliminações
-- Categoria B: 500, 650, 800, 1000 eliminações
-- Categoria C: 400, 500, 600, 800 eliminações
+- Categoria B: 400, 550, 600, 8000 eliminações
+- Categoria C: 300, 400, 500, 700 eliminações
 - Categoria D: 200, 250, 300, 400 eliminações
 
 E, por sua vez, cada rank oferecerá uma recompensa aprimorada em ouro e experiência:
@@ -37,7 +37,7 @@ E, por sua vez, cada rank oferecerá uma recompensa aprimorada em ouro e experi�
 
 ## Party (Grupo)
 
-Ao caçar em party, os requisitos mudam um pouco. A fórmula é `requiredKills * partySize * 0.9`. Por exemplo:
+Ao caçar em party, os requisitos mudam um pouco. A fórmula é `requiredKills * partySize * 0.8`. Por exemplo:
 
-- **2 pessoas, categoria C, commoner**: 400 * 2 * 0.9 = 720
-- **4 pessoas, categoria A, legendary**: 1000 * 4 * 0.9 = 3600
+- **2 pessoas, categoria C, commoner**: 300 * 2 * 0.8 = 480
+- **4 pessoas, categoria A, legendary**: 1000 * 4 * 0.8 = 3200
