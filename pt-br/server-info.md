@@ -2,7 +2,7 @@
 title: Informações Gerais do Servidor
 description: 
 published: true
-date: 2023-10-19T19:00:25.517Z
+date: 2023-10-20T22:46:53.680Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
@@ -31,13 +31,13 @@ dateCreated: 2023-10-19T02:47:25.774Z
 
 ## Treinamento
 
-- **Armas de treinamento gratuitas e infinitas**: São 20% menos eficazes do que as armas de exercício regulares, mas duram para sempre!
+- **Training weapons gratuitas e infinitas**: Tem 20% ou 1/5 da eficácia das exercise weapons (armas de exercício), mas duram para sempre!
 
-- **Armas de exercício básicas**: Armas de base (5x mais eficazes do que as infinitas). Você as obtém no jogo na loja, por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+- **Basic exercise weapons**: Armas de base (5x mais eficazes do que as infinitas). Você as obtém no jogo na loja, por gold, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
-- **Armas de exercício aprimoradas**: 20% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+- **Enhanced exercise weapons**: 20% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
-- **Armas de exercício magistrais**: 30% mais eficazes do que as **Básicas**. Você as obtém no jogo por ouro, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
+- **Masterful exercise weapons**: 30% mais eficazes do que as **Básicas**. Você as obtém no jogo por gold, tokens ou [Brasiliyera Coins](https://Brasiliyera.com/shop).
 
 ## Blessings
 
