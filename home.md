@@ -2,7 +2,7 @@
 title: Elysiera Wiki
 description: 
 published: true
-date: 2023-10-20T01:12:09.971Z
+date: 2023-10-20T01:13:16.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T05:06:14.930Z
