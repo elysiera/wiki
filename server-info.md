@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-19T18:59:34.091Z
+date: 2023-10-20T22:56:07.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -31,7 +31,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## Training
 
--   **Free, infinite, training weapons**: These are 20% as effective as regular exercise weapons, but last forever!
+-   **Free, infinite, training weapons**: They have 20% or 1/5 of the effectiveness of exercise weapons, but they last forever!
 -   **Basic exercise weapons**: Baseline weapons (5x more effective than the infinite ones). You get them in game at store, for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
 -   **Enhanced exercise weapons**: 20% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
 -   **Masterful exercise weapons**: 30% more effective than *Basic*. You get get them in game for gold, tokens or [Elysiera Coins](https://elysiera.com/shop)
