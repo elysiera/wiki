@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-20T02:43:55.855Z
+date: 2023-10-21T01:47:51.566Z
 tags: missões, tasks
 editor: markdown
 dateCreated: 2023-10-19T17:25:38.197Z
@@ -24,9 +24,9 @@ As tasks kills (pequenas missões de morte) são desafios cronometrados, nos qua
 Para completar cada task, você precisa alcançar um dos 4 ranks: **commoner, journeyman, epic, legendary**. A maioria das tasks segue os mesmos padrões, respectivamente:
 
 - Categoria A: 500, 650, 800, 1000 eliminações
-- Categoria B: 400, 550, 600, 8000 eliminações
-- Categoria C: 300, 400, 500, 700 eliminações
-- Categoria D: 200, 250, 300, 400 eliminações
+- Categoria B: 300, 400, 500, 700 eliminações
+- Categoria C: 250, 325, 450, 600 eliminações
+- Categoria D: 150, 200, 250, 350 eliminações
 
 E, por sua vez, cada rank oferecerá uma recompensa aprimorada em ouro e experiência:
 
