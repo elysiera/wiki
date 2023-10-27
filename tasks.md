@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-21T01:45:14.054Z
+date: 2023-10-27T01:07:56.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T01:57:58.814Z
@@ -24,8 +24,8 @@ Kill tasks are timed trials, you have 30 minutes to kill as many of a certain cr
 In order to complete each task, you need to achieve one of the 4 ranks: **commoner, journeyman, epic, legendary**. Most tasks follow the same patterns, respectively:
 
 - A-Tier: 500, 650, 800, 1000 kills
-- B-Tier: 300, 400, 500, 700 kills
-- C-Tier: 250, 325, 450, 600 kills
+- B-Tier: 250, 300, 350, 500 kills
+- C-Tier: 200, 250, 300, 400 kills
 - D-Tier: 150, 200, 250, 350 kills
 
 And in turn, each rank will give you a boosted gold and experience reward:
@@ -39,5 +39,5 @@ And in turn, each rank will give you a boosted gold and experience reward:
 
 When hunting in a party, the requirements change a bit. The formula is `requiredKills * partySize * 0.8`. So for example:
 
-**2 people, C-tier, commoner**: 250 * 2 * 0.8 = 400
+**2 people, C-tier, commoner**: 200 * 2 * 0.8 = 320
 **4 people, A-tier, legendary**: 1000 * 4 * 0.8 = 3200
