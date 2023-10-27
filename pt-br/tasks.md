@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-10-27T01:09:07.271Z
+date: 2023-10-27T01:10:33.189Z
 tags: missões, tasks
 editor: markdown
 dateCreated: 2023-10-19T17:25:38.197Z
