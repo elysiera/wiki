@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T06:32:44.756Z
+date: 2023-11-05T06:33:02.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -32,8 +32,8 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 **Bruise Bane** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
 **Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 8
 **Fair Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 300
-** Intense Wound Cleansing** No Rage cost | :clock2: 3m Cooldown | Level 80
-** Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
+**Intense Wound Cleansing** No Rage cost | :clock2: 3m Cooldown | Level 80
+**Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
 **Intense Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | 100
 
 ## Attack Spells
