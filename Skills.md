@@ -1,8 +1,8 @@
 ---
-title: Skill and Item changes
+title: Spell and Item changes
 description: 
 published: true
-date: 2023-10-19T15:58:16.723Z
+date: 2023-11-05T06:27:00.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
