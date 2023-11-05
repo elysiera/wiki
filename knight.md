@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T19:47:26.705Z
+date: 2023-11-05T19:49:39.291Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -27,6 +27,7 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 ## New and Modified Spells
 :star:**Charge**:star: 🟢 100 Rage | :clock2: 12s Cooldown | Level 25 | *Runs rapidly to your target.*
 :star:**Phalanx**:star: 🟥 300 Rage | :clock2: 12s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it.*
+**Mana Leech** will "heal" your **Phalanx** shield while it's active
 
 ## Healing Spells 
 **Bruise Bane** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
@@ -55,7 +56,8 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 **Blood Rage** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
 **Summon Knight Familiar** :broken_heart: 30% max HP | Level 200
 
-## Item Adjustments
+## Adjustments
 **Mana Potions** | **Mana Fluids** Using any mana potions on a knight will not add any resources
 **Jean Pierre Items** Foods that restore mana will not restore knights resource
 **Food and Regeneration Item** Regeneration from food and items do not affect rage resource
+**Mana Leech** Does nothing unless **Phalanx** is active, in which case it applies to the shield. Has been removed as an option from *weapons* (but kept around in *helmets*).
