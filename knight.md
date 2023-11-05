@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T06:31:30.947Z
+date: 2023-11-05T06:32:44.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -26,30 +26,30 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 # :crossed_swords: Skills & Spells Overhaul
 ## New and Modified Spells
 :star:**Charge**:star: 🟢 100 Rage | :clock2: 12s Cooldown | Level 25 | *Runs rapidly to your target.*
-:star:**Phalanx**:star: :red_square: 300 Rage | :clock2: 12s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it.*
+:star:**Phalanx**:star: 🟥 300 Rage | :clock2: 12s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it.*
 
 ## Healing Spells 
-**Bruise Bane** :red_square: 100 Rage | :clock2: 2s Cooldown | Level 1
-**Wound Cleansing** :red_square: 100 Rage | :clock2: 2s Cooldown | Level 8
-**Fair Wound Cleansing** :red_square: 100 Rage | :clock2: 2s Cooldown | Level 300
+**Bruise Bane** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
+**Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 8
+**Fair Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 300
 ** Intense Wound Cleansing** No Rage cost | :clock2: 3m Cooldown | Level 80
 ** Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
 **Intense Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | 100
 
 ## Attack Spells
  **Brutal Strike** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
- **Annihilation** :red_square: 600 Rage | :clock2: 8s Cooldown | Level 110
- **Whirlwind Throw** :red_square: 100 Rage | :clock2: 8s Cooldown | Level 28
- **Executioner's Throw** :red_square: 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
+ **Annihilation** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
+ **Whirlwind Throw** 🟥 100 Rage | :clock2: 8s Cooldown | Level 28
+ **Executioner's Throw** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
  **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
  **Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
- **Fierce Berserk** :red_square: 350 Rage | :clock2: 2s Cooldown | Level 50
- **Front Sweep** :red_square: 250 Rage | :man_vampire: 50% Life Leech | :clock2: 4s Cooldown | Level 20
+ **Fierce Berserk** 🟥 350 Rage | :clock2: 2s Cooldown | Level 50
+ **Front Sweep** 🟥 250 Rage | :man_vampire: 50% Life Leech | :clock2: 4s Cooldown | Level 20
  **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
 
 ## Support Spells
 **Challenge** 🟢 300 | :clock2: 4s Cooldown | Level 20
-**Chivalrous Challenge** :red_square: 15 Rage | :clock2: 4s Cooldown | Level 150
+**Chivalrous Challenge** 🟥 15 Rage | :clock2: 4s Cooldown | Level 150
 **Train Party** No Rage cost | :clock2: 10s | Level 32
 **Protector** No Rage cost | :clock2: 6s Cooldown | Level 55
 **Blood Rage** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
