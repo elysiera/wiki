@@ -2,7 +2,7 @@
 title: Tasks
 description: 
 published: true
-date: 2023-11-05T23:32:09.867Z
+date: 2023-11-05T23:34:22.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T01:57:58.814Z
@@ -48,7 +48,7 @@ When hunting in a party, the requirements change a bit. The formula is `required
 
 | Task | Monsters |
 | --- | --- |
-| Cobra Bastion | Cobra Scout, Cobra Vizier, Cobra Assassin |
+| ![Cobra Scout](https://www.tibiawiki.com.br/images/b/b9/Cobra_Scout.gif) Cobra Bastion | Cobra Scout, Cobra Vizier, Cobra Assassin |
 | Fafnar Cultists | Black Sphinx Acolyte, Burning Gladiator, Priestess of the Wild Sun |
 | Falcon Bastion | Falcon Knight, Falcon Paladin |
 | Ferumbras Ascension | Hellflayer, Vexclaw, Grimeleech |
