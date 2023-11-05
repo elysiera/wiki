@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T06:33:02.189Z
+date: 2023-11-05T06:37:10.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -44,7 +44,7 @@ We are reworking the knight's resource system and redesigning all knight abiliti
  **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
  **Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
  **Fierce Berserk** 🟥 350 Rage | :clock2: 2s Cooldown | Level 50
- **Front Sweep** 🟥 250 Rage | :man_vampire: 50% Life Leech | :clock2: 4s Cooldown | Level 20
+ **Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
  **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
 
 ## Support Spells
