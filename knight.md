@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T19:49:39.291Z
+date: 2023-11-05T21:58:28.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -38,22 +38,24 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 **Intense Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | 100
 
 ## Attack Spells
- **Brutal Strike** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
- **Annihilation** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
- **Whirlwind Throw** 🟥 100 Rage | :clock2: 8s Cooldown | Level 28
- **Executioner's Throw** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
- **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
- **Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
- **Fierce Berserk** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
- **Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
- **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
+**Brutal Strike** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
+**Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
+**Whirlwind Throw** 🟥 100 Rage | :clock2: 8s Cooldown | Level 28
+**Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
+8*Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
+**Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
+**Fierce Berserk** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
+**Annihilation** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
+**Executioner's Throw** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
+
+
 
 ## Support Spells
 **Challenge** 🟢 300 | :clock2: 4s Cooldown | Level 20
-**Chivalrous Challenge** 🟥 150 Rage (No rage cost with WoD upgrade) | :clock2: 4s Cooldown | Level 150
 **Train Party** No Rage cost | :clock2: 10s | Level 32
 **Protector** No Rage cost | :clock2: 6s Cooldown | Level 55
 **Blood Rage** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
+**Chivalrous Challenge** 🟥 150 Rage (No rage cost with WoD upgrade) | :clock2: 4s Cooldown | Level 150
 **Summon Knight Familiar** :broken_heart: 30% max HP | Level 200
 
 ## Adjustments
