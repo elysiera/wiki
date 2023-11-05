@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T21:58:28.292Z
+date: 2023-11-05T23:55:01.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -42,7 +42,7 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 **Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
 **Whirlwind Throw** 🟥 100 Rage | :clock2: 8s Cooldown | Level 28
 **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
-8*Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
+**Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
 **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
 **Fierce Berserk** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
 **Annihilation** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
