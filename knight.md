@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T06:30:39.056Z
+date: 2023-11-05T06:31:30.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -18,6 +18,10 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 - **Maximum Rage**: 1000 points
 - **Rage Mechanics**: Replaces mana. Increases with designated combat actions; passively decays or regenerates towards a baseline of 200.
 - **Developer Notes**: We aim to create a more dynamic combat system, where resource management becomes crucial to your success on the battlefield.
+
+**Key**
+🟢  Represents rage generators
+🟥  Represents rage spenders
 
 # :crossed_swords: Skills & Spells Overhaul
 ## New and Modified Spells
