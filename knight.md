@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T06:37:10.520Z
+date: 2023-11-05T19:47:26.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -32,7 +32,7 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 **Bruise Bane** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
 **Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 8
 **Fair Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 300
-**Intense Wound Cleansing** No Rage cost | :clock2: 3m Cooldown | Level 80
+**Intense Wound Cleansing** No Rage cost | :clock2: 3m (90s with WoD upgrade) Cooldown | Level 80
 **Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
 **Intense Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | 100
 
@@ -43,13 +43,13 @@ We are reworking the knight's resource system and redesigning all knight abiliti
  **Executioner's Throw** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
  **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
  **Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
- **Fierce Berserk** 🟥 350 Rage | :clock2: 2s Cooldown | Level 50
+ **Fierce Berserk** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
  **Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
  **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
 
 ## Support Spells
 **Challenge** 🟢 300 | :clock2: 4s Cooldown | Level 20
-**Chivalrous Challenge** 🟥 15 Rage | :clock2: 4s Cooldown | Level 150
+**Chivalrous Challenge** 🟥 150 Rage (No rage cost with WoD upgrade) | :clock2: 4s Cooldown | Level 150
 **Train Party** No Rage cost | :clock2: 10s | Level 32
 **Protector** No Rage cost | :clock2: 6s Cooldown | Level 55
 **Blood Rage** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
