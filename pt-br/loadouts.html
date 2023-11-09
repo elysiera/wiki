@@ -1,0 +1,133 @@
+<!--
+title: Battle Loadouts
+description: 
+published: true
+date: 2023-11-09T19:58:16.409Z
+tags: 
+editor: code
+dateCreated: 2023-11-09T19:58:16.409Z
+-->
+
+<p>Brasiliyera tem uma maneira <i>única</i> de recarregar suas hunts ou até mesmo trocar completamente os carregamentos de suprimentos com <strong>loadouts</strong>. Quando você digita <code>!loadout</code> no jogo, você verá o seguinte:</p>
+<figure class="image"><img src="/loadouts_usage.png"></figure>
+<p><strong>Loadouts </strong>podem ser criados editando um <code>!loadout edit energy</code> ou <code>!loadout edit bosses</code>, o nome do <strong>loadout</strong> pode ser <i>qualquer coisa</i>! Se você esquecer um comando, não se esqueça de que sempre pode digitar <code>!loadout</code> para ver exemplos de uso.</p>
+<h2>Configurando Loadouts</h2>
+<p>Ao fazer <code>!loadout edit</code>, você terá a oportunidade de configurar seu loadout.</p>
+<figure class="table" style="height:500px;">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <figure class="image image_resized image-style-align-left" style="width:66.26%;"><img src="/loadout_edit.png"></figure>
+        </td>
+        <td>
+          <figure class="image image-style-align-right"><img src="/loadout_confirmed.png">
+            <figcaption>Confirmação do Loadout</figcaption>
+          </figure>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<p>Observe que apenas itens vendidos pela <strong>Battlemart</strong> e <strong>Stashable</strong> (significa que podem ser armazenados em seu stash) estão disponíveis para loadouts. Você deve usar o nome completo do item (sem abreviações).</p>
+<p>Quaisquer linhas prefixadas com um <code>+</code> adicionarão itens ao seu loadout, seguidas pelo nome do item e depois pelo número de itens a adquirir. Se você tiver mais do que esse número, o restante será armazenado ao aceitar o loadout da <strong>Battlemart</strong>.</p>
+<p>Quaisquer linhas prefixadas com um <code>-</code> irão <i>remover</i> itens. Significa que esses itens serão <i>armazenados</i> ao preencher um loadout da <strong>Battlemart</strong>, todos eles.</p>
+<p>O sistema informará quais linhas são inválidas quando você enviar um loadout, para que você possa experimentar algumas coisas para pegar o jeito.</p>
+<h2>Preenchendo Loadouts</h2>
+<p>Depois de configurar os loadouts (você pode vê-los via <code>!loadout list</code>). Você pode pedir à <strong>Battlemart</strong> para preenchê-los para você. Esse processo é muito simples. Quando você os cumprimenta, eles oferecerão a você a opção de negociar ou preencher um loadout. Clique em <strong>loadout</strong> (ou simplesmente diga <code>loadout</code>) e a <strong>Battlemart</strong> listará todas as suas configurações de loadout disponíveis. Uma vez que você selecionar uma, isso acontecerá:</p>
+<ul>
+  <li>Todos os itens <i>não desejados</i> (itens configurados com um <code>-</code>) serão enviados para o seu <i>stash</i>.</li>
+  <li>Para cada item desejado, a <strong>Battlemart</strong> retirará do seu <i>stash</i> para o seu inventário, sem custo para você. Se isso for suficiente para preencher seu pedido, você está pronto!</li>
+  <li>Agora, a <strong>Battlemart</strong> terá prazer em vender todos os itens restantes de que você precisa, e uma vez feito isso, presumindo que você tenha dinheiro e capacidade suficientes, estará pronto para a batalha!</li>
+</ul>
+<h2>Loadouts Iniciais</h2>
+<p>Aqui estão alguns exemplos para você começar:</p>
+<h3>Fire (Mage)</h3>
+<pre><code class="language-plaintext">+ great fireball rune 500
++ brown mushroom 250
+- stalagmite rune
+- stone shower rune
+- icicle rune
+- heavy magic missile rune
++ sudden death rune 250
+- avalanche rune
++ ultimate mana potion 500
+- thunderstorm rune
++ fireball rune 500</code></pre>
+<h3>Ice (Mage)</h3>
+<pre><code class="language-plaintext">+ avalanche rune 500
++ brown mushroom 250
+- stalagmite rune
+- stone shower rune
++ icicle rune 500
+- heavy magic missile rune
++ sudden death rune 250
+- great fireball rune
++ ultimate mana potion 500
+- thunderstorm rune
+- fireball rune
+</code></pre>
+<h3>Earth (Mage)</h3>
+<pre><code class="language-plaintext">- great fireball rune
++ brown mushroom 250
++ stalagmite rune 500
++ stone shower rune 500
+- icicle rune
+- heavy magic missile rune
++ sudden death rune 250
+- avalanche rune
++ ultimate mana potion 500
+- thunderstorm rune
+- fireball rune
+</code></pre>
+<h3>Energy (Mage)</h3>
+<pre><code class="language-plaintext">- avalanche rune
++ brown mushroom 250
+- stalagmite rune
+- stone shower rune
+- icicle rune
++ heavy magic missile rune 500
++ sudden death rune 250
+- great fireball rune
++ ultimate mana potion 500
++ thunderstorm rune 500
+- fireball rune
+</code></pre>
+<h3>Bosses (?) (Mage)</h3>
+<pre><code class="language-plaintext">+ avalanche rune 300
++ brown mushroom 250
+- stalagmite rune
+- thunderstorm rune
+- stone shower rune
++ icicle rune 300
+- heavy magic missile rune
++ sudden death rune 500
+- great fireball rune
++ ultimate mana potion 500
++ magic wall rune 100
+- fireball rune
+</code></pre>
+<h3>Paladin (AoE)</h3>
+<pre><code class="language-plaintext">+ ultimate spirit potion 300
++ diamond arrow 1200
++ great mana potion 300
++ brown mushroom 250
++ energy wall rune 100
++ spectral bolt 250</code></pre>
+<h3>Paladin (Single Target)</h3>
+<pre><code class="language-plaintext">+ ultimate spirit potion 300
++ diamond arrow 500
++ great mana potion 300
++ brown mushroom 250
+- energy wall rune
++ spectral bolt 950</code></pre>
+<h3>Knight</h3>
+<pre><code class="language-plaintext">+ brown mushroom 250
++ supreme health potion 1000
+- ultimate health potion
+- great health potion
+- strong health potion
+- health potion
+</code></pre>
+<p>&nbsp;</p>
