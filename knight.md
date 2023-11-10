@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-05T23:55:01.352Z
+date: 2023-11-10T17:29:18.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -26,7 +26,7 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 # :crossed_swords: Skills & Spells Overhaul
 ## New and Modified Spells
 :star:**Charge**:star: 🟢 100 Rage | :clock2: 12s Cooldown | Level 25 | *Runs rapidly to your target.*
-:star:**Phalanx**:star: 🟥 300 Rage | :clock2: 12s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it.*
+:star:**Phalanx**:star: 🟥 300 Rage | :clock2: 8s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it that lasts up to 30s.*
 **Mana Leech** will "heal" your **Phalanx** shield while it's active
 
 ## Healing Spells 
@@ -39,8 +39,8 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 
 ## Attack Spells
 **Brutal Strike** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
-**Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 4s Cooldown | Level 20
-**Whirlwind Throw** 🟥 100 Rage | :clock2: 8s Cooldown | Level 28
+**Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 2s Cooldown | Level 20
+**Whirlwind Throw** 🟥 100 Rage | :clock2: 2s Cooldown | Level 28
 **Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
 **Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
 **Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
