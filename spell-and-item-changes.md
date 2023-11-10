@@ -2,7 +2,7 @@
 title: Spell and Item changes
 description: 
 published: true
-date: 2023-11-10T20:27:54.945Z
+date: 2023-11-10T20:28:14.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:23:17.790Z
@@ -28,7 +28,6 @@ Elysiera introduces a number of changes to many items, and spells.
 - Stalagmite now chains to up to 5 targets.
 - Icicle now chains to up to 5 targets.
 - Heavy Magic Missile now chains to up to 5 targets.
-***Developer notes:** We wanted to give outdated runes a situational use. The Sudden Death rune has been the goto rune for single target. Certain monster resistances or vulnerabilities will give the player the option to optimize damage with elemental runes.*
 
 ## Paladin spell changes
 **Divine Dazzle:**
