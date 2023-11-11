@@ -2,7 +2,7 @@
 title: Informações Gerais do Servidor
 description: 
 published: true
-date: 2023-10-20T22:46:53.680Z
+date: 2023-11-11T18:52:49.580Z
 tags: tibia mmorpg otserver brasiliyera
 editor: markdown
 dateCreated: 2023-10-19T02:47:25.774Z
@@ -55,29 +55,29 @@ Você recebe algumas recompensas básicas de gold em alguns níveis:
 - Nível 150: 100.000 gold
 - Nível 200: 200.000 gold
 
-## Server Commands
-#### **General commands:**
+## Comandos do Servidor
+#### **Comandos Gerais:**
 -   **!commands**
-See a list of commands available
+Veja uma lista de comandos disponíveis
 -   **!aol**
-Spawn an Amulet of Loss into your backpack (Costs 50,000 gold)
+Gera um Amuleto da Perda na sua mochila (Custa 50.000 ouro)
 - **!autoloot on | !autoloot off**
-Enable or disable autoloot
+Ativa ou desativa o autoloot
 -   **!bless**
-Add all available blessings.
+Adiciona todas as bênçãos disponíveis.
 -   **!vip**
-Check your VIP status
--   **!flask on	 | !flask off**
-Enables or disables receiving empty flasks when drinking potions
--   **!emote on	 | !emote off**
-On will make spells display in chat.
-Off will remove spells from chat and display as an emote (Orange text)
+Verifique seu status VIP
+-   **!flask on | !flask off**
+Ativa ou desativa o recebimento de frascos vazios ao beber poções
+-   **!emote on | !emote off**
+Ativado fará com que feitiços sejam exibidos no chat.
+Desativado removerá feitiços do chat e os exibirá como um emote (Texto laranja)
 -   **!online**
-Lists all players online and their current status
+Lista todos os jogadores online e seu status atual
 -   **!serverinfo**
-Lists the server status
+Lista o status do servidor
 -   **!time**
-Displays the current game world time
+Exibe a hora atual do mundo do jogo
 
 #### **Comandos do banco**
 *Não inclua os (colchetes) ao digitar esses comandos*
