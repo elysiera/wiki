@@ -1,0 +1,118 @@
+<!--
+title: Exaltation Forge
+description: 
+published: true
+date: 2023-11-13T05:20:36.880Z
+tags: 
+editor: code
+dateCreated: 2023-11-13T05:20:36.880Z
+-->
+
+<p>Se você está familiarizado com a Exaltation Forge do Tibia, a nossa não é muito diferente. Aqui estão alguns aspectos que são únicos à nossa implementação</p>
+<h2>Sorte (luck) Acumulada por Falhas</h2>
+<p>Toda vez que você tenta fundir um item e falha em fazê-lo, você acumula um pouco mais de sorte para aquela combinação específica de item e nível. Por exemplo: se você falhar ao fundir duas Blue Robes de nível 0, na próxima vez que tentar fundir duas Blue Robes de nível 0, sua chance de sucesso será aumentada. Se você tentar fundir Blue Robes de nível 1, ou qualquer outro item, ou qualquer outro nível, sua chance será a padrão.</p>
+<p>Devido a limitações do client, a chance mostrada na janela da Forja permanecerá a mesma, mas você receberá uma mensagem em Informações do Servidor com sua chance efetiva assim que tentar uma fusão.</p>
+<p>&nbsp;</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Falhas</strong></td>
+        <td><strong>Bonus</strong></td>
+      </tr>
+      <tr>
+        <td>0</td>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>2%</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>5%</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>9%</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>16%</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>26%</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>35% (max)</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Improved Onslaught</h2>
+<p>Padrão <i>Ruse</i> and <i>Momentum</i> são bons buffs, bug <i>Onslaught</i> deixa um pouco a desejar. Temos os seguintes bônus melhorados:</p>
+<figure class="table" style="width:max-content;">
+  <table style="background-color:rgb(255, 255, 255);">
+    <thead>
+      <tr>
+        <th style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">Tier</th>
+        <th style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">Chance of Fatal Hit (%)</th>
+        <th style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">Average Damage Increase (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">1</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">1.00</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">0.60</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">2</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">2.09</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">1.25</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">3</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">3.36</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">2.02</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">4</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">4.81</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">2.89</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">5</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">6.44</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">3.86</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">6</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">8.25</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">4.95</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">7</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">10.24</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">6.14</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">8</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">12.41</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">7.45</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">9</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">14.76</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">8.86</td>
+      </tr>
+      <tr>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">10</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">17.29</td>
+        <td style="border-bottom:1px solid var(--borderColor-default, var(--color-border-default));border-left:1px solid var(--borderColor-default, var(--color-border-default));border-right:1px solid var(--borderColor-default, var(--color-border-default));border-top:1px solid var(--borderColor-default, var(--color-border-default));padding:6px 13px;">10.37</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
