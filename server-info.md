@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-10-20T22:56:07.575Z
+date: 2023-11-13T03:11:46.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -43,6 +43,11 @@ dateCreated: 2023-09-30T06:00:06.168Z
 -   Free until level 100
 -   From level 101 -> 399: `(level - 100) * 60 + 1000` *(per blessing)*
 -   Levels 400+: 20,000 *(per blessing)*
+
+## Wheel of Destiny chances
+
+- Mitigation multiplier, life leech, mana leech are 4 times more effective. This means you get 0.12% mitigation multiplier per point, 3% life leech and 1% mana leech per node.
+- Healing and damage boosts are 10 times more effective, giving you a total of 40 as boost instead of 4 per stage.
 
 ## Level rewards
 
