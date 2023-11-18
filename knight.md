@@ -2,7 +2,7 @@
 title: Knight
 description: 
 published: true
-date: 2023-11-10T17:29:18.031Z
+date: 2023-11-18T01:04:17.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T06:22:08.064Z
@@ -25,38 +25,38 @@ We are reworking the knight's resource system and redesigning all knight abiliti
 
 # :crossed_swords: Skills & Spells Overhaul
 ## New and Modified Spells
-:star:**Charge**:star: 🟢 100 Rage | :clock2: 12s Cooldown | Level 25 | *Runs rapidly to your target.*
-:star:**Phalanx**:star: 🟥 300 Rage | :clock2: 8s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it that lasts up to 30s.*
+:star:**Charge (`utani tempo hur`)**:star: 🟢 100 Rage | :clock2: 12s Cooldown | Level 25 | *Runs rapidly to your target.*
+:star:**Phalanx (`utamo scuta`)**:star: 🟥 300 Rage | :clock2: 8s Cooldown | Level 14 | *Support Spell: Generates a shield based on level and defense that transfers 10% of incoming damage to it that lasts up to 30s.*
 **Mana Leech** will "heal" your **Phalanx** shield while it's active
 
 ## Healing Spells 
-**Bruise Bane** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
-**Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 8
-**Fair Wound Cleansing** 🟥 100 Rage | :clock2: 2s Cooldown | Level 300
-**Intense Wound Cleansing** No Rage cost | :clock2: 3m (90s with WoD upgrade) Cooldown | Level 80
-**Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
-**Intense Recovery** No Rage cost | :clock2: 60s Cooldown/Duration | 100
+**Bruise Bane (`exura infir ico`)** 🟥 100 Rage | :clock2: 2s Cooldown | Level 1
+**Wound Cleansing (`exura ico`)** 🟥 100 Rage | :clock2: 2s Cooldown | Level 8
+**Fair Wound Cleansing (`exura med ico`)** 🟥 100 Rage | :clock2: 2s Cooldown | Level 300
+**Intense Wound Cleansing (``)** No Rage cost | :clock2: 3m (90s with WoD upgrade) Cooldown | Level 80
+**Recovery (`exura gran ico`)** No Rage cost | :clock2: 60s Cooldown/Duration | Level 50
+**Intense Recovery (`utura gran`)** No Rage cost | :clock2: 60s Cooldown/Duration | 100
 
 ## Attack Spells
-**Brutal Strike** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
-**Front Sweep** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 2s Cooldown | Level 20
-**Whirlwind Throw** 🟥 100 Rage | :clock2: 2s Cooldown | Level 28
-**Groundshaker** No Rage cost | :clock2: 16s Cooldown | Level 33
-**Berserk** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
-**Inflict Wound** No Rage Cost | :clock2: 30s Cooldown | Level 40
-**Fierce Berserk** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
-**Annihilation** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
-**Executioner's Throw** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
+**Brutal Strike (`exori ico`)** 🟢 350 Rage | :clock2: 2s Cooldown | Level 1
+**Front Sweep (`exori min`)** 🟥 250 Rage | 🧛‍♂️ 50% Life Leech | :clock2: 2s Cooldown | Level 20
+**Whirlwind Throw (`exori hur`)** 🟥 100 Rage | :clock2: 2s Cooldown | Level 28
+**Groundshaker (`exori mas`)** No Rage cost | :clock2: 16s Cooldown | Level 33
+**Berserk (`exori`)** 🟢 400 Rage | :clock2: 2s Cooldown | Level 35
+**Inflict Wound (`utori kor`)** No Rage Cost | :clock2: 30s Cooldown | Level 40
+**Fierce Berserk (`exori gran`)** 🟥 350 Rage (300 with WoD upgrade) | :clock2: 2s Cooldown | Level 50
+**Annihilation (`exori gran ico`)** 🟥 600 Rage | :clock2: 8s Cooldown | Level 110
+**Executioner's Throw (`exori amp kor`)** 🟥 1000 Rage | :broken_heart: 30% maximum health | :clock2: 8s Cooldown | Wheel of Destiny
 
 
 
 ## Support Spells
-**Challenge** 🟢 300 | :clock2: 4s Cooldown | Level 20
-**Train Party** No Rage cost | :clock2: 10s | Level 32
-**Protector** No Rage cost | :clock2: 6s Cooldown | Level 55
-**Blood Rage** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
-**Chivalrous Challenge** 🟥 150 Rage (No rage cost with WoD upgrade) | :clock2: 4s Cooldown | Level 150
-**Summon Knight Familiar** :broken_heart: 30% max HP | Level 200
+**Challenge (`exeta res`)** 🟢 300 | :clock2: 4s Cooldown | Level 20
+**Train Party (`utito mas sio`)** No Rage cost | :clock2: 10s | Level 32
+**Protector (`utamo tempo`)** No Rage cost | :clock2: 6s Cooldown | Level 55
+**Blood Rage (`utito tempo`)** :broken_heart: 10% current HP | :clock2: 6s Cooldown | Level 60
+**Chivalrous Challenge (`exeta amp res`)** 🟥 150 Rage (No rage cost with WoD upgrade) | :clock2: 4s Cooldown | Level 150
+**Knight Familiar (`utevo gran res eq`)** :broken_heart: 30% max HP | Level 200
 
 ## Adjustments
 **Mana Potions** | **Mana Fluids** Using any mana potions on a knight will not add any resources
