@@ -2,18 +2,13 @@
 title: Paladin
 description: 
 published: true
-date: 2023-11-28T01:21:35.194Z
+date: 2023-11-28T01:21:50.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-28T01:21:35.194Z
 ---
 
 ## 🏹 Paladin
-
-### 🛡️ Monster Armor
-Physical damage to monsters tend to double dip into damage reductions. Armor and physical resistance both cause pure physical damages, such as arrows, bolts, and certain knight weapons to perform very low. For example, a Falcon Longsword would deal less single target auto-attack damage than a Falcon Battleaxe purely from the elemental property of its damage. This is just an outdated mechanic leftover from the old days and doesn't really have a place in a more modern implementation.
-- Armor is removed from monsters
-- The damage reduction from armor is applied evenly to monster mitigation
 
 ### 🌟 Spell & Rune Adjustments
 We're shifting some of the damage around in the paladin toolkit to provide space for Focus to take a role within the damage output.
