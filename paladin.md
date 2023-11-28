@@ -2,13 +2,19 @@
 title: Paladin
 description: 
 published: true
-date: 2023-11-28T01:21:50.678Z
+date: 2023-11-28T01:25:48.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-28T01:21:35.194Z
 ---
 
 ## 🏹 Paladin
+
+The Paladin vocation in the Elysiera game has undergone comprehensive updates, detailed on this page. These changes include modifications to spells and runes, impacting the Paladin's abilities in distinct ways. For example, Divine Caldera now deals a specific amount of damage, while Divine Missile's damage and target count are set to new fixed values. The introduction of the new rune, Divine Rain, an Area of Effect rune, enhances gameplay, especially for Paladins, with its unique damage output.
+
+Additionally, the role of Dexterity has been redefined to influence basic attack speed and dodge chance. The new Focus mechanic introduces a maximum cap of 1000 focus points, which directly affect the auto-attack delay and are influenced by various combat scenarios.
+
+Significant alterations have been made to ammunition, including specific effects and damage changes for arrows, bolts, and throwables. These adjustments are aimed at differentiating the Paladin class, enriching strategic depth in both group and solo play, and preserving the Paladin's core gameplay experience. Players now have the opportunity to engage with an enriched Paladin role, incorporating the Focus gameplay style
 
 ### 🌟 Spell & Rune Adjustments
 We're shifting some of the damage around in the paladin toolkit to provide space for Focus to take a role within the damage output.
