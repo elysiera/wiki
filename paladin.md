@@ -2,7 +2,7 @@
 title: Paladin
 description: 
 published: true
-date: 2023-11-28T01:25:48.312Z
+date: 2023-12-01T02:34:57.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-28T01:21:35.194Z
@@ -52,18 +52,20 @@ We're shifting some of the damage around in the paladin toolkit to provide space
 ### 🎯 Focus
 - Maximum of 1000 focus 
 - At 1000 focus, paladin auto-attack delay is 1.2 seconds (current baseline is 2.0 seconds)
-- Focus is generated at the rate of 50 focus per second in combat when attacking 
-- Being struck with a melee attack will result in losing 100 focus
+- Focus is generated at the rate of 100 focus per second in combat when attacking 
+- Being struck with a melee attack will result in losing 400 focus
+- You can only lose focus once every 1.5 seconds
 - Focus is represented by the purple bar used for magic shield and phalanx
+- Focus loss is reduced by 33% while wearing a shield
 
 ### 🏹 Ammunition Changes
 - **Arrows**
   - Area of effect slightly increased
 - **Bolts**
-  - Damage per shot reduced by half
+  - Damage per shot by 40%
   - Note that attack speed at full focus doubles attack rate, which offsets this reduction
 - **Throwables** (spears/stars/etc)
-  - Damage reduced by 15%
+  - Damage increased by 15%
 
 ### 🏁 Goals
 - **Distance Skill Role**
