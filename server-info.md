@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-11-13T03:14:01.477Z
+date: 2023-12-01T03:00:07.255Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -106,7 +106,7 @@ Stand in front of the door, have another player nearby, click them and it will i
 
 ## Custom systems
 
--   Diamond arrows are 1sqm larger and deal more damage.
+-   Diamond arrows are 1sqm larger and deal more damage. They are also impacted by elemental imbuements on bows.
 -   Wands/rods damage scale up with magic level and level, and can chain up to 4 creatures
 -   All melee skills have been merged into **Melee fighting**.
     -   Swords are powerful single target weapons that deal more damage faster  
