@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2023-12-01T03:00:07.255Z
+date: 2024-01-09T20:42:38.850Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -10,7 +10,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## General Info
 
--   **Protocol**: 13.21
+-   **Protocol**: 13.30
 -   **Server type**: non-PVP
 -   **Location**: Montreal - Canada
 -   **Autoloot & Autobank**: Manage containers in-game for loot, gold goes directly to your bank account.
