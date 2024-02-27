@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T00:52:28.824Z
+date: 2024-02-27T00:53:23.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -22,12 +22,12 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## Important differences compared to retail Tibia
 
-- Boss cooldowns are 10 hours instead of 20
-- Max resistance of mobs for any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses)
-- No mobs (including bosses) reflect damage
-- No mobs (including bosses) heal due to taking damage from any element
-- **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations
-- **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful)
+- Boss cooldowns are 10 hours instead of 20.
+- Max resistance of mobs for any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
+- No mobs (including bosses) reflect damage.
+- No mobs (including bosses) heal due to taking damage from any element.
+- **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
+- **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful).
 - **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 
 ## Rates
