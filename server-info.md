@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T05:53:37.489Z
+date: 2024-02-27T05:57:15.837Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -46,6 +46,11 @@ dateCreated: 2023-09-30T06:00:06.168Z
 	- Wands/Rods: +0.5 magic level in addition to Onslaught
 	- Bow: +0.5 atk and +0.5 atk speed in addition to Onslaught
 	- Crossbow: +0.5 atk and +0.5 hit% in addition to Onslaught
+  - Boots: +10 speed per tie
+	- Rings: +0.5% mana leech (except for EKs, who use rage instead of mana)
+	- Amulets: +0.5% life leech
+	- Shields: +1 defense per tier
+	- Spellbooks: +1 defense and +0.5 magic level per tier
 
 ## Rates
 
