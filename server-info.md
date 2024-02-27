@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T23:15:20.302Z
+date: 2024-02-27T23:17:07.300Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -27,7 +27,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
 - **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+).
-- **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
+- **Dynamic spawn:** For most spawns, mob cluster distribution changes on every Server Save, in a completely random manner.
 - **Wheel of Destiny improvements:** Damage and Healing Revelation Perks, mitigation multiplier, life leech, and mana leech multipliers are **quadrupled**! For instance, if the tooltip says you have +9 damage/healing, you actually have +36.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
 - **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20k (intricate), and 300k (powerful).
