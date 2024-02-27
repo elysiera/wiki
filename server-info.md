@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T05:41:10.692Z
+date: 2024-02-27T05:42:52.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - No mobs (including bosses) heal due to taking damage from any element.
 - **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
-- **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful).
+- **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20k (intricate), and 300k (powerful).
 - **Silver Token items:** Are now permament and no longer need to be recharged! Also, they can be upgraded using the Forge (see below).
 - **Exaltation Forge improvements:** 
 	- Class 1 items can be upgraded to Tier 3 (Tier 1: 25k, Tier 			2: 50k, Tier 3: 100k).
