@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T01:38:12.980Z
+date: 2024-02-27T01:41:09.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -22,6 +22,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## Important differences compared to retail Tibia
 
+- Damage and Healing Revelation Perk on Wheel of Destiny is **quadrupled**! For instance, if the tooltip says you have +9 damage/healing, you actually have +36.
 - Boss cooldowns are 10 hours instead of 20.
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
