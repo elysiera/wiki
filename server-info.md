@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T00:18:27.645Z
+date: 2024-02-27T00:22:39.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -19,6 +19,10 @@ dateCreated: 2023-09-30T06:00:06.168Z
     -   4 hours of double experience (Refreshed on Wednesday)
     -   12 hours of double skill (Refreshed on Thursday)
 -   **Free quests**: Access quests unlocked so you can hunt spawns and the bosses you want
+
+## Important differences compared to retail Tibia
+
+- 
 
 ## Rates
 
