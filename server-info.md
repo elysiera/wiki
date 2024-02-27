@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T01:41:09.432Z
+date: 2024-02-27T02:07:50.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - No mobs (including bosses) heal due to taking damage from any element.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
 - **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful).
-- **Silver Token items:** No longer cost silver tokens to recharge! Also, they can be upgraded using the Forge (see below).
+- **Silver Token items:** Are now permament and no longer need to be recharged! Also, they can be upgraded using the Forge (see below).
 - **Exaltation Forge improvements:** 
 	- Class 1 items can be upgraded to Tier 3 (Tier 1: 25k, Tier 			2: 50k, Tier 3: 100k).
   - Class 2 items can be upgraded to Tier 4 (Tier 1: 50k, Tier 			2: 100k, Tier 3: 200k, Tier 4: 400k).
