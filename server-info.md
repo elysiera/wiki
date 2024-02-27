@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T00:30:16.811Z
+date: 2024-02-27T00:40:57.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -27,7 +27,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - No mobs (including bosses) reflect damage
 - No mobs (including bosses) heal due to taking damage from any element
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations
-- Imbuements
+- **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful)
 
 ## Rates
 
