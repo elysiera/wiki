@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T01:09:28.771Z
+date: 2024-02-27T01:09:49.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
 - **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful).
 - **Silver Token items:** No longer cost silver tokens to recharge! Also, they can be upgraded using the Forge (see below).
-- **Exaltation Forge improvement:** Class 1 items can be upgraded to Tier 3 (Tier 1: 25k, Tier 2: 50k, Tier 3: 100k). Class 2 items can be upgraded to Tier 4 (Tier 1: 50k, Tier 2: 100k, Tier 3: 200k, Tier 4: 400k). Class 3 items can be upgraded up Tier 5 (Tier 1: 200k, Tier 2: 400k, Tier 3: 800k, Tier 4: 1.6m, Tier 5: 3.2m). Class 4 items can be upgraded up Tier 10 (Tier 1: 1.5m, Tier 2: 3m, Tier 3: 6m, Tier 4: 15m, Tier 5: 30m, Tier 6: 80m, Tier 7: 200m, Tier 8: 400m, Tier 9: 800m, Tier 10: 1.6b).
+- **Exaltation Forge improvement:** Class 1 items can be upgraded to Tier 3 (Tier 1: 25k, Tier 2: 50k, Tier 3: 100k). Class 2 items can be upgraded to Tier 4 (Tier 1: 50k, Tier 2: 100k, Tier 3: 200k, Tier 4: 400k). Class 3 items can be upgraded to Tier 5 (Tier 1: 200k, Tier 2: 400k, Tier 3: 800k, Tier 4: 1.6m, Tier 5: 3.2m). Class 4 items can be upgraded to Tier 10 (Tier 1: 1.5m, Tier 2: 3m, Tier 3: 6m, Tier 4: 15m, Tier 5: 30m, Tier 6: 80m, Tier 7: 200m, Tier 8: 400m, Tier 9: 800m, Tier 10: 1.6b).
 - **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 
 ## Rates
