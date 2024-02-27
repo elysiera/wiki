@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T05:59:19.503Z
+date: 2024-02-27T05:59:26.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -26,7 +26,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
-- **Custom spawns:** Nargor pirates (lvl 300+) and Laguna Island crabs/turtles (lvl 700+)
+- **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+)
 - **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 - **Wheel of Destiny improvements:** Damage and Healing Revelation Perks, mitigation multiplier, life leech, and mana leech multipliers are **quadrupled**! For instance, if the tooltip says you have +9 damage/healing, you actually have +36.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
