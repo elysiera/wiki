@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T02:07:50.531Z
+date: 2024-02-27T05:41:10.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -27,6 +27,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
+- **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
 - **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20000 (intricate), and 300000 (powerful).
 - **Silver Token items:** Are now permament and no longer need to be recharged! Also, they can be upgraded using the Forge (see below).
@@ -44,7 +45,6 @@ dateCreated: 2023-09-30T06:00:06.168Z
 	- Wands/Rods: +0.5 magic level in addition to Onslaught
 	- Bow: +0.5 atk and +0.5 atk speed in addition to Onslaught
 	- Crossbow: +0.5 atk and +0.5 hit% in addition to Onslaught
-- **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 
 ## Rates
 
