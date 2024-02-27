@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T01:38:01.963Z
+date: 2024-02-27T01:38:12.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -34,7 +34,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
   - Class 2 items can be upgraded to Tier 4 (Tier 1: 50k, Tier 			2: 100k, Tier 3: 200k, Tier 4: 400k).
   - Class 3 items can be upgraded to Tier 5 (Tier 1: 200k, Tier 2: 400k, Tier 3: 800k, Tier 4: 1.6m, Tier 5: 3.2m).
   - Class 4 items can be upgraded to Tier 10 (Tier 1: 1.5m, Tier 2: 3m, Tier 3: 6m, Tier 4: 15m, Tier 5: 30m, Tier 6: 80m, Tier 7: 200m, Tier 8: 400m, Tier 9: 800m, Tier 10: 1.6b).
-- **New Exaltation Forge perks:**:
+- **New Exaltation Forge perks:**
 	- Helmets: +1 arm in addition to Momentum
 	- Armors: +1 arm in addition to Ruse
 	- Legs: +1 arm in addition to Transcendance
