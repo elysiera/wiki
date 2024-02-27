@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T06:00:42.106Z
+date: 2024-02-27T06:02:48.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -26,7 +26,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
-- **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+)
+- **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+).
 - **Dynamic spawn:** For most spawns, mob density and cluster distribution changes on every Server Save, in a completely random manner.
 - **Wheel of Destiny improvements:** Damage and Healing Revelation Perks, mitigation multiplier, life leech, and mana leech multipliers are **quadrupled**! For instance, if the tooltip says you have +9 damage/healing, you actually have +36.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
@@ -52,6 +52,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 	- Amulets: +0.5% life leech
 	- Shields: +1 defense per tier
 	- Spellbooks: +1 defense and +0.5 magic level per tier
+- Influenced monsters can be found more frequently and consistently throughout the world.
 
 ## Rates
 
