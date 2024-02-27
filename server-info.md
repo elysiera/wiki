@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T00:22:39.545Z
+date: 2024-02-27T00:24:06.963Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -22,7 +22,8 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## Important differences compared to retail Tibia
 
-- 
+- Boss cooldowns are 10 hours instead of 20
+- Max elemental resistance of mobs is 30%, so you deal at least 70% damage with any element against any mob (including bosses and mini-bosses)
 
 ## Rates
 
