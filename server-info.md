@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-27T00:18:08.214Z
+date: 2024-02-27T00:18:27.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -22,7 +22,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 
 ## Rates
 
-**Experience:** 10✕, ramping down to 2✕
+**Experience:** 10✕ at start, ramping down to 2✕ at lvl 1000
 ![exp-rate.png](/exp-rate.png)
 
 **Loot**: 1.5✕
