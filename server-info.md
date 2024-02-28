@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-28T07:47:36.343Z
+date: 2024-02-28T07:54:00.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -26,9 +26,15 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
+- **Account-wide bonuses:** We encourage you to create characters of all vocations by rewarding you with the following buffs, which apply to ALL characters on your account:
+	- highest level character: 0.06 speed per level (up to 90 max)
+	- highest level knight: +0.005% mitigation per level
+	- highest level paladin: +0.075 dexterity levels per level
+	- highest level sorcerer: +0.0025% crit chance per level
+	- highest level druid: +0.005% healing per level
 - **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+).
 - **Dynamic spawn:** For most spawns, mob cluster distribution changes on every Server Save, in a completely random manner.
-- **Hazard scaling:** Spawn difficulty can now be customized and scaled up beyond their original intended level brackets! Areas include bootlegs, Warzones 4-6, Lost Souls, Nagas, and Ingol.
+- **Hazard scaling:** Spawn difficulty can now be customized and scaled up beyond their original intended level brackets! Areas include bootlegs, Warzones 4-6, Lost Souls, Nagas, Cobras, Falcons, and Ingol.
 - **Wheel of Destiny improvements:** Damage and Healing Revelation Perks, mitigation multiplier, life leech, and mana leech multipliers are **quadrupled**! For instance, if the tooltip says you have +9 damage/healing, you actually have +36.
 - **Prey improvement:** Killing mobs which are not your preyed mobs do not drain the remaining prey durations.
 - **Imbue improvements:** Costs gold only, no creature parts required. Can choose between a 5-hour option or a 20-hour option (which costs 4 times more). 5-hour costs are 2750 (basic), 20k (intricate), and 300k (powerful).
