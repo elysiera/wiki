@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-28T07:54:00.802Z
+date: 2024-02-28T07:55:30.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -28,10 +28,10 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - No mobs (including bosses) heal due to taking damage from any element.
 - **Account-wide bonuses:** We encourage you to create characters of all vocations by rewarding you with the following buffs, which apply to ALL characters on your account:
 	- highest level character: 0.06 speed per level (up to 90 max)
-	- highest level knight: +0.005% mitigation per level
-	- highest level paladin: +0.075 dexterity levels per level
-	- highest level sorcerer: +0.0025% crit chance per level
-	- highest level druid: +0.005% healing per level
+	- highest level knight: +0.005% mitigation per level (up to 7.5% max)
+	- highest level paladin: +0.075 dexterity levels per level (up to 112.5 max)
+	- highest level sorcerer: +0.0025% crit chance per level (up to 3.75% max)
+	- highest level druid: +0.005% healing per level (up to 7.5% max)
 - **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+).
 - **Dynamic spawn:** For most spawns, mob cluster distribution changes on every Server Save, in a completely random manner.
 - **Hazard scaling:** Spawn difficulty can now be customized and scaled up beyond their original intended level brackets! Areas include bootlegs, Warzones 4-6, Lost Souls, Nagas, Cobras, Falcons, and Ingol.
