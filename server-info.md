@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-28T09:28:27.013Z
+date: 2024-02-28T09:29:09.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - **Account-wide bonuses:** You are encouraged to create characters of all vocations! Each type of character will grant you minor buffs per level you advance on them (up to level 1500) for ALL characters on your account:
 	- highest level character: 0.06 speed per level (up to 90 max)
 	- highest level knight: +0.005% mitigation per level (up to 7.5% max)
-	- highest level paladin: +0.075 dexterity levels per level (up to 112.5 max)
+	- highest level paladin: +0.075 dexterity per level (up to 112.5 max)
 	- highest level sorcerer: +0.0025% crit chance per level (up to 3.75% max)
 	- highest level druid: +0.005% healing per level (up to 7.5% max)
 - **Custom spawns:** Nargor bootlegs (lvl 300+) and Laguna Island crabs/turtles (lvl 700+).
