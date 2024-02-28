@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-02-28T09:25:57.958Z
+date: 2024-02-28T09:26:54.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -26,7 +26,7 @@ dateCreated: 2023-09-30T06:00:06.168Z
 - Max resistance of mobs against any element is 30%, so you deal at least 70% damage with any element against any mob (including bosses).
 - No mobs (including bosses) reflect damage.
 - No mobs (including bosses) heal due to taking damage from any element.
-- **Account-wide bonuses:** We encourage you to create characters of all vocations by rewarding you with the following buffs, which apply to ALL characters on your account (maxed out at level 1500):
+- **Account-wide bonuses:** You are encouraged to create characters of all vocations, for which you will receive minor buffs for ALL characters on your account (maxed out at level 1500):
 	- highest level character: 0.06 speed per level (up to 90 max)
 	- highest level knight: +0.005% mitigation per level (up to 7.5% max)
 	- highest level paladin: +0.075 dexterity levels per level (up to 112.5 max)
