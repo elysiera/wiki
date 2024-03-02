@@ -2,7 +2,7 @@
 title: Server Info
 description: 
 published: true
-date: 2024-03-01T10:24:53.917Z
+date: 2024-03-02T23:34:22.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-30T06:00:06.168Z
@@ -151,11 +151,11 @@ Stand in front of the door, have another player nearby, click them and it will i
 -   Wands/rods damage scale up with magic level and level, and can chain up to 4 creatures
 -   All melee skills have been merged into **Melee fighting**.
     -   Swords are powerful single target weapons that deal more damage faster  
-        (+20% attack speed, regular damage formula).
+        (+20% attack speed, +10% damage).
     -   Axes can chain up to 5 creatures that are standing besides eachother  
-        (-20% damage).
+        (-10% damage).
     -   Clubs deal area damage the same size as *diamond arrows*  
-        (-50% damage).
+        (-30% damage).
     -   All training weapons and imbuments that previously affected sword, axe or club will affect melee. Fist fight fighting is melee and has been slightly buffed.
 -   *New skill* **Runic fighting**: You level up *runic fighting* everytime you damage an enemy with a rune. Runes receive a boost in damage based on the caster's runic skill. This skill levels up faster the more monsters you hit with a rune; damage dealt is irrelevant!
 -   *New skill* **Luck**: You level up *luck* by looting rare items. Luck gives you more loot and also gives you *critical hit chance*!
